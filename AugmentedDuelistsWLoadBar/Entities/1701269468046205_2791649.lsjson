@@ -1,0 +1,22 @@
+{
+    "1701269468046205:2791649": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574897414:39270",
+            "resources": [
+                "1701269468049007:2791651"
+            ]
+        }
+    },
+    "1702290574897414:39270": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Textures"
+            }
+        }
+    }
+}

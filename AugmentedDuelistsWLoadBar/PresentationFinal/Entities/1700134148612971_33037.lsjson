@@ -1,0 +1,20 @@
+{
+    "1700134148612971:33037": {
+        "IResourceController": {
+            "name": "AnimationAssets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499340321244:40321",
+            "resources": []
+        }
+    },
+    "1702499340321244:40321": {
+        "IResourceController": {
+            "public": {
+                "path": "AnimationAssets"
+            }
+        }
+    }
+}

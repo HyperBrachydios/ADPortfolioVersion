@@ -1,0 +1,61 @@
+{
+    "1702054019247565:393711": {
+        "IResourceController": {
+            "name": "EverardMesh",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1702054352297491:444418",
+            "publicId": "1702290573646581:39145",
+            "expected_hash": "279d7bbd9b4d6ee5ddeb2de93a967bfb",
+            "resources": [
+                "1702054348048178:442037",
+                "1702054348568988:443051",
+                "1702054348595876:443318",
+                "1702054352177945:443973"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Arms",
+                        "v": "1702054349461344:443388"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1702054348600719:443321"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1702054350358898:443455"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1702054351299618:443522"
+                    }
+                ]
+            }
+        }
+    },
+    "1702054352297491:444418": {
+        "IFileManager": {
+            "path": "Files/File_1702054352297491_444418.glb"
+        }
+    },
+    "1702290573646581:39145": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/NewModels/EverardMesh.glb",
+                "hash": "279d7bbd9b4d6ee5ddeb2de93a967bfb"
+            }
+        }
+    }
+}

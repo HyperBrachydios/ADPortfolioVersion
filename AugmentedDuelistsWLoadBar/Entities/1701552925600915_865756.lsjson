@@ -1,0 +1,39 @@
+{
+    "1701552925598223:865755": {
+        "IFileManager": {
+            "path": "Files/File_1701552925598223_865755"
+        }
+    },
+    "1701552925600915:865756": {
+        "IResourceController": {
+            "name": "P2_AttackC",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552925615774:865757",
+            "fileId": "1701552925598223:865755",
+            "originalId": "1701552925616109:865762",
+            "publicId": "1702290575141240:39308",
+            "expected_hash": "c3105f659f089125f17d3d610bb9ceea"
+        },
+        "IResourceManager": {
+            "uid": "1701552925615774:865757",
+            "name": "Files/File_1701552925598223_865755",
+            "flags": 1
+        }
+    },
+    "1701552925616109:865762": {
+        "IFileManager": {
+            "path": "Files/File_1701552925616109_865762.png"
+        }
+    },
+    "1702290575141240:39308": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionCard Markers/P2_AttackC.png",
+                "hash": "f71d66492872ce6bf62a4dcaf9f53256"
+            }
+        }
+    }
+}

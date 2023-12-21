@@ -1,0 +1,38 @@
+{
+    "1700729696847166:922792": {
+        "IFileManager": {
+            "path": "Files/File_1700729696847166_922792.js"
+        }
+    },
+    "1700729696848902:922793": {
+        "IResourceController": {
+            "name": "EventModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700729696848919:922794",
+            "fileId": "1700729696847166:922792",
+            "publicId": "1702499341170869:40453",
+            "expected_hash": "404f24b9dd29d8dc40f1b07ae36c0795"
+        },
+        "IResourceManager": {
+            "uid": "1700729696848919:922794",
+            "name": "Files/File_1700729696847166_922792.js",
+            "flags": 1
+        }
+    },
+    "1700729696848919:922794": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702499341170869:40453": {
+        "IResourceController": {
+            "public": {
+                "path": "EventModule.js",
+                "hash": "404f24b9dd29d8dc40f1b07ae36c0795"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1701269462271975:2790512": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342892852:40415",
+            "resources": [
+                "1701269462225470:2790497",
+                "1701269462307457:2790524",
+                "1701269462377577:2790543",
+                "1701269462464256:2790564"
+            ]
+        }
+    },
+    "1702488342892852:40415": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Scripts"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1702054352177945:443973": {
+        "IResourceController": {
+            "name": "EverardMesh",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1702054352177434:443672",
+            "fileId": "1702054352256801:444417",
+            "originalId": "1702060907551265:671423",
+            "expected_hash": "29ecaa29793fad9ac799ea7d0b22c0a3"
+        },
+        "IResourceManager": {
+            "uid": "1702054352177434:443672",
+            "name": "GltfImport_2",
+            "flags": 0
+        }
+    },
+    "1702054352256801:444417": {
+        "IFileManager": {
+            "path": "Files/File_1702054352256801_444417.oprfb"
+        }
+    },
+    "1702060907551265:671423": {
+        "IFileManager": {
+            "path": "Files/File_1702060907551265_671423.oprfb"
+        }
+    }
+}

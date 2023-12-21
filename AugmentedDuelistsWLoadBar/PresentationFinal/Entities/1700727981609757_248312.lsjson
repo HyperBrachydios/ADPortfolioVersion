@@ -1,0 +1,26 @@
+{
+    "1700727981609757:248312": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499341122899:40443",
+            "resources": [
+                "1700727981589421:248295",
+                "1700727981627285:248327",
+                "1700727981682806:248362",
+                "1700727981723273:248389",
+                "1700727981782578:248421"
+            ]
+        }
+    },
+    "1702499341122899:40443": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources/Meshes"
+            }
+        }
+    }
+}

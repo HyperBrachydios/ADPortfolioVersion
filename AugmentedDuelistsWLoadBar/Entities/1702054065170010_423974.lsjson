@@ -1,0 +1,61 @@
+{
+    "1702054065170010:423974": {
+        "IResourceController": {
+            "name": "SheldonMesh4",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1702054329613749:425021",
+            "publicId": "1702290573578583:39139",
+            "expected_hash": "9d1d17278fa543c74898304d6a6954b3",
+            "resources": [
+                "1702054326018424:424041",
+                "1702054326271348:424103",
+                "1702054326285111:424247",
+                "1702054329328890:424755"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1702054326290239:424250"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1702054327276801:424317"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1702054327870774:424384"
+                    },
+                    {
+                        "k": "Material 4",
+                        "v": "1702054328565445:424451"
+                    }
+                ]
+            }
+        }
+    },
+    "1702054329613749:425021": {
+        "IFileManager": {
+            "path": "Files/File_1702054329613749_425021.glb"
+        }
+    },
+    "1702290573578583:39139": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/NewModels/SheldonMesh4.glb",
+                "hash": "9d1d17278fa543c74898304d6a6954b3"
+            }
+        }
+    }
+}

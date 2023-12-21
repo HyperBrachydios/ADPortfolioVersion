@@ -1,0 +1,39 @@
+{
+    "1700730103985459:1069673": {
+        "IFileManager": {
+            "path": "Files/File_1700730103985459_1069673.lsc"
+        }
+    },
+    "1700730103987380:1069675": {
+        "IResourceController": {
+            "name": "Scene Manager",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1698100327547525:134800",
+            "fileId": "1700730103985459:1069673",
+            "originalId": "1700730104003359:1069719",
+            "publicId": "1702290574700890:39238",
+            "expected_hash": "4121225da6f193e7244d783a4a4f94ec",
+            "resources": [
+                "1700730103989411:1069677",
+                "1700730103994864:1069700",
+                "1700730104000045:1069710"
+            ]
+        }
+    },
+    "1700730104003359:1069719": {
+        "IFileManager": {
+            "path": "Files/File_1700730104003359_1069719.lsc"
+        }
+    },
+    "1702290574700890:39238": {
+        "IResourceController": {
+            "public": {
+                "path": "Scene Manager.lsc",
+                "hash": "ec3b220dd5d220e432bc2e5b2ff06dc4"
+            }
+        }
+    }
+}

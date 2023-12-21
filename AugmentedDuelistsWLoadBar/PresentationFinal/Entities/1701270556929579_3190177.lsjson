@@ -1,0 +1,79 @@
+{
+    "1701270556893903:3190168": {
+        "IFileManager": {
+            "path": "Files/File_1701270556893903_3190168.pvr"
+        }
+    },
+    "1701270556929579:3190177": {
+        "IResourceController": {
+            "name": "Red_Color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701270556958627:3190186",
+            "fileId": "1701270556893903:3190168",
+            "originalId": "1701270556990334:3190721",
+            "publicId": "1702499340804658:40394",
+            "expected_hash": "0cb6bd0d8aba151ac1edac2c3f9865fb",
+            "additional": {
+                "originHash": "3cf69a6873b7f4a0cab876c7f0b01079"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701270556958627:3190186",
+            "name": "Files/File_1701270556893903_3190168.jpg",
+            "flags": 1
+        }
+    },
+    "1701270556958627:3190186": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3cf69a6873b7f4a0cab876c7f0b01079"
+                    },
+                    "v": "1701270579121236:3200095"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "304200",
+                "compressedSize": "52228",
+                "extension": "jpg",
+                "originalRAM": "2430000",
+                "originalSize": "15599",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701270557007882:3190728"
+        }
+    },
+    "1701270556990334:3190721": {
+        "IFileManager": {
+            "path": "Files/File_1701270556990334_3190721.jpg"
+        }
+    },
+    "1701270557007882:3190728": {
+        "IFileManager": {
+            "path": "Files/File_1701270557007882_3190728.jpg"
+        }
+    },
+    "1701270579121236:3200095": {
+        "IFileManager": {
+            "path": "Files/File_1701270579121236_3200095.pvr"
+        }
+    },
+    "1702499340804658:40394": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/UI/Red_Color.jpg",
+                "hash": "3cf69a6873b7f4a0cab876c7f0b01079"
+            }
+        }
+    }
+}

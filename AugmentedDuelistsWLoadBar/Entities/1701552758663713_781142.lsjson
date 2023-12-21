@@ -1,0 +1,33 @@
+{
+    "1701552758661644:781141": {
+        "IFileManager": {
+            "path": "Files/File_1701552758661644_781141.afpub"
+        }
+    },
+    "1701552758663713:781142": {
+        "IResourceController": {
+            "name": "TurnChangeMarker",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552758663729:781143",
+            "fileId": "1701552758661644:781141",
+            "publicId": "1702290575231592:39318",
+            "expected_hash": "9f4c8f14e8301bb694f8c333733c021a"
+        },
+        "IResourceManager": {
+            "uid": "1701552758663729:781143",
+            "name": "Files/File_1701552758661644_781141.afpub",
+            "flags": 1
+        }
+    },
+    "1702290575231592:39318": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/Affinity File/TurnChangeMarker.afpub",
+                "hash": "9f4c8f14e8301bb694f8c333733c021a"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1701552759545135:781259": {
+        "IFileManager": {
+            "path": "Files/File_1701552759545135_781259.psd"
+        }
+    },
+    "1701552759550694:781260": {
+        "IResourceController": {
+            "name": "Markers_002",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552759550717:781261",
+            "fileId": "1701552759545135:781259",
+            "publicId": "1702488343431319:40504",
+            "expected_hash": "52a49576a2396a5d99e60ea58a77d18b"
+        },
+        "IResourceManager": {
+            "uid": "1701552759550717:781261",
+            "name": "Files/File_1701552759545135_781259.psd",
+            "flags": 1
+        }
+    },
+    "1702488343431319:40504": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/Markers_002.psd",
+                "hash": "52a49576a2396a5d99e60ea58a77d18b"
+            }
+        }
+    }
+}

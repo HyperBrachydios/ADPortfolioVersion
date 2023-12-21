@@ -1,0 +1,24 @@
+{
+    "1701552758614057:780595": {
+        "IResourceController": {
+            "name": "ActionMarkersPNG",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499341653255:40530",
+            "resources": [
+                "1701552758615958:780597",
+                "1701552758722421:781149",
+                "1701552759739668:781298"
+            ]
+        }
+    },
+    "1702499341653255:40530": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG"
+            }
+        }
+    }
+}

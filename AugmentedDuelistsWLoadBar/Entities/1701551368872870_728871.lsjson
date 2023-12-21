@@ -1,0 +1,24 @@
+{
+    "1701551368872870:728871": {
+        "IResourceController": {
+            "name": "Snapcode_Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290575043484:39298",
+            "resources": [
+                "1701548921239120:357597",
+                "1701548993812245:364382",
+                "1701549075722631:376258"
+            ]
+        }
+    },
+    "1702290575043484:39298": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapcode_Resources"
+            }
+        }
+    }
+}

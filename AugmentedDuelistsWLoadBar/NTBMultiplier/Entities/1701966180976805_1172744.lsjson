@@ -1,0 +1,39 @@
+{
+    "1701966180969171:1172743": {
+        "IFileManager": {
+            "path": "Files/File_1701966180969171_1172743"
+        }
+    },
+    "1701966180976805:1172744": {
+        "IResourceController": {
+            "name": "Attack1Action",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701966180987239:1172745",
+            "fileId": "1701966180969171:1172743",
+            "originalId": "1701966180987598:1172750",
+            "publicId": "1702488343572777:40516",
+            "expected_hash": "ed63b1302256a47b3c3e1fd4267ea24d"
+        },
+        "IResourceManager": {
+            "uid": "1701966180987239:1172745",
+            "name": "Files/File_1701966180969171_1172743",
+            "flags": 1
+        }
+    },
+    "1701966180987598:1172750": {
+        "IFileManager": {
+            "path": "Files/File_1701966180987598_1172750.jpg"
+        }
+    },
+    "1702488343572777:40516": {
+        "IResourceController": {
+            "public": {
+                "path": "Attack1Action.jpg",
+                "hash": "03faf32aafd6c731e239530541b0e1de"
+            }
+        }
+    }
+}

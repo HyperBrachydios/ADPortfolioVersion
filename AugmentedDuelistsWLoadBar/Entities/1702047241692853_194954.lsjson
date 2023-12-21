@@ -1,0 +1,79 @@
+{
+    "1702047241685896:194953": {
+        "IFileManager": {
+            "path": "Files/File_1702047241685896_194953.pvr"
+        }
+    },
+    "1702047241692853:194954": {
+        "IResourceController": {
+            "name": "pixil-frame-0",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702047241710858:194955",
+            "fileId": "1702047241685896:194953",
+            "originalId": "1702047241711997:194960",
+            "publicId": "1702290575506709:39339",
+            "expected_hash": "ef220eb38461af10db250f46afdee402",
+            "additional": {
+                "originHash": "9a66c510f3ee3631a502bd87cf96d730"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1702047241710858:194955",
+            "name": "Files/File_1702047241685896_194953.png",
+            "flags": 1
+        }
+    },
+    "1702047241710858:194955": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9a66c510f3ee3631a502bd87cf96d730"
+                    },
+                    "v": "1702047243569591:207253"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "460800",
+                "compressedSize": "3517",
+                "extension": "png",
+                "originalRAM": "3686400",
+                "originalSize": "4137",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1702047241723652:194961"
+        }
+    },
+    "1702047241711997:194960": {
+        "IFileManager": {
+            "path": "Files/File_1702047241711997_194960.png"
+        }
+    },
+    "1702047241723652:194961": {
+        "IFileManager": {
+            "path": "Files/File_1702047241723652_194961.png"
+        }
+    },
+    "1702047243569591:207253": {
+        "IFileManager": {
+            "path": "Files/File_1702047243569591_207253.pvr"
+        }
+    },
+    "1702290575506709:39339": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/pixil-frame-0.png",
+                "hash": "9a66c510f3ee3631a502bd87cf96d730"
+            }
+        }
+    }
+}

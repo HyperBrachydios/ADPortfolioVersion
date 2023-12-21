@@ -1,0 +1,79 @@
+{
+    "1701269466073869:2791174": {
+        "IFileManager": {
+            "path": "Files/File_1701269466073869_2791174.pvr"
+        }
+    },
+    "1701269466077378:2791175": {
+        "IResourceController": {
+            "name": "BaseTex",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269466078342:2791176",
+            "fileId": "1701269466073869:2791174",
+            "originalId": "1701269466078944:2791181",
+            "publicId": "1702290574878889:39267",
+            "expected_hash": "a6e3e744c0975422c5ac6eb5acd7eb53",
+            "additional": {
+                "originHash": "087204df709f79ca8712dd5deb5f7ad9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701269466078342:2791176",
+            "name": "Files/File_1701269466073869_2791174.jpg",
+            "flags": 1
+        }
+    },
+    "1701269466078342:2791176": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "087204df709f79ca8712dd5deb5f7ad9"
+                    },
+                    "v": "1701269480757344:2797618"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "25088",
+                "compressedSize": "5417",
+                "extension": "png",
+                "originalRAM": "200704",
+                "originalSize": "8092",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701269466103528:2791189"
+        }
+    },
+    "1701269466078944:2791181": {
+        "IFileManager": {
+            "path": "Files/File_1701269466078944_2791181.png"
+        }
+    },
+    "1701269466103528:2791189": {
+        "IFileManager": {
+            "path": "Files/File_1701269466103528_2791189.png"
+        }
+    },
+    "1701269480757344:2797618": {
+        "IFileManager": {
+            "path": "Files/File_1701269480757344_2797618.pvr"
+        }
+    },
+    "1702290574878889:39267": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Textures/BaseTex.png",
+                "hash": "087204df709f79ca8712dd5deb5f7ad9"
+            }
+        }
+    }
+}

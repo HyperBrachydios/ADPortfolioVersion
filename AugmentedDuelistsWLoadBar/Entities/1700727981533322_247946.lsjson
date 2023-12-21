@@ -1,0 +1,22 @@
+{
+    "1700727981533322:247946": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574581218:39223",
+            "resources": [
+                "1700727981513501:247927"
+            ]
+        }
+    },
+    "1702290574581218:39223": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources/Textures"
+            }
+        }
+    }
+}

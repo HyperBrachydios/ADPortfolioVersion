@@ -1,0 +1,25 @@
+{
+    "1702054013478492:392758": {
+        "IResourceController": {
+            "name": "Materials00010000",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342366153:40307",
+            "resources": [
+                "1702054013483744:392760",
+                "1702054014174612:392827",
+                "1702054014945850:392894",
+                "1702054015934010:392961"
+            ]
+        }
+    },
+    "1702488342366153:40307": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/BrambleMesh/Materials00010000"
+            }
+        }
+    }
+}

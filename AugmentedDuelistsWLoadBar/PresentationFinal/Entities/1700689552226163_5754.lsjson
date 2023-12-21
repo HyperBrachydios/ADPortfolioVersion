@@ -1,0 +1,63 @@
+{
+    "1700689552226163:5754": {
+        "IResourceController": {
+            "name": "SpikeyShell_Animated",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1700689555747456:7144",
+            "publicId": "1702499340358940:40329",
+            "expected_hash": "24fb4ed476a8c29717813cc0fb1f2928",
+            "resources": [
+                "1700689553837376:6419",
+                "1700689554105146:6577",
+                "1700689554105981:6592",
+                "1700689555706673:7030"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1700689554107864:6595"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1700689554535129:6640"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1700689555017563:6676"
+                    },
+                    {
+                        "k": "Material 4",
+                        "v": "1700689555353682:6712"
+                    }
+                ]
+            }
+        }
+    },
+    "1700689555747456:7144": {
+        "IFileManager": {
+            "path": "Files/File_1700689555747456_7144.fbx"
+        }
+    },
+    "1702499340358940:40329": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SpikeyShell_Animated.fbx",
+                "hash": "24fb4ed476a8c29717813cc0fb1f2928"
+            }
+        }
+    }
+}

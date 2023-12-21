@@ -1,0 +1,39 @@
+{
+    "1701269464921933:2790900": {
+        "IFileManager": {
+            "path": "Files/File_1701269464921933_2790900"
+        }
+    },
+    "1701269464924478:2790901": {
+        "IResourceController": {
+            "name": "Segment Bar Mat [EDIT ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269464924483:2790902",
+            "fileId": "1701269464921933:2790900",
+            "originalId": "1701269464962537:2790908",
+            "publicId": "1702290574842428:39260",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1701269464924483:2790902",
+            "name": "Files/File_1701269464921933_2790900",
+            "flags": 1
+        }
+    },
+    "1701269464962537:2790908": {
+        "IFileManager": {
+            "path": "Files/File_1701269464962537_2790908.lsmat"
+        }
+    },
+    "1702290574842428:39260": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Segmented Bar Materials/Segment Bar Mat [EDIT ME].lsmat",
+                "hash": "1c63402e3045831f5d2eda628dbcd34b"
+            }
+        }
+    }
+}

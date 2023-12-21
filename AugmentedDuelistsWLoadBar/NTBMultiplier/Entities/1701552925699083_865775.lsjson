@@ -1,0 +1,39 @@
+{
+    "1701552925696329:865774": {
+        "IFileManager": {
+            "path": "Files/File_1701552925696329_865774"
+        }
+    },
+    "1701552925699083:865775": {
+        "IResourceController": {
+            "name": "P2_Swap",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552925700245:865776",
+            "fileId": "1701552925696329:865774",
+            "originalId": "1701552925700494:865781",
+            "publicId": "1702488343182625:40482",
+            "expected_hash": "4a239ffd5f99b6177d2352edb9cfbe71"
+        },
+        "IResourceManager": {
+            "uid": "1701552925700245:865776",
+            "name": "Files/File_1701552925696329_865774",
+            "flags": 1
+        }
+    },
+    "1701552925700494:865781": {
+        "IFileManager": {
+            "path": "Files/File_1701552925700494_865781.jpg"
+        }
+    },
+    "1702488343182625:40482": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionCard Markers/P2_Swap.jpg",
+                "hash": "a34b2b2e56d82568e648debae26cdcee"
+            }
+        }
+    }
+}

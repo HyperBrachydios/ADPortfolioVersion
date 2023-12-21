@@ -1,0 +1,125 @@
+{
+    "1700727981587477:248294": {
+        "IFileManager": {
+            "path": "Files/File_1700727981587477_248294.mesh"
+        }
+    },
+    "1700727981589421:248295": {
+        "IResourceController": {
+            "name": "monster_teeth_bt",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981604294:248302",
+            "fileId": "1700727981587477:248294",
+            "publicId": "1702499341124316:40444",
+            "expected_hash": "0aeab970bd8f9f00f392b9accf9231b4",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700727981604294:248302",
+            "name": "Files/File_1700727981587477_248294.mesh",
+            "flags": 1
+        }
+    },
+    "1700727981604294:248302": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5120",
+                "compressedSize": "3057",
+                "extension": "mesh",
+                "originalRAM": "5120",
+                "originalSize": "3057",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1700727981611825:248315"
+        }
+    },
+    "1700727981611825:248315": {
+        "IFileManager": {
+            "path": "Files/File_1700727981611825_248315.mesh"
+        }
+    },
+    "1702499341124316:40444": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources/Meshes/monster_teeth_bt.mesh",
+                "hash": "0aeab970bd8f9f00f392b9accf9231b4"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1700610429396677:832": {
+        "IResourceController": {
+            "name": "PlaySpace",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290573890091:39162",
+            "resources": [
+                "1700610429397859:834",
+                "1700610429411488:852"
+            ]
+        }
+    },
+    "1702290573890091:39162": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace"
+            }
+        }
+    }
+}

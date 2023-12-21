@@ -1,0 +1,17 @@
+{
+    "1700727981581252:248215": {
+        "IResourceController": {
+            "name": "RIGHT_THUMB_01_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981581251:248214"
+        },
+        "IResourceManager": {
+            "uid": "1700727981581251:248214",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

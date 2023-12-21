@@ -1,0 +1,22 @@
+{
+    "1701269468118770:2791680": {
+        "IResourceController": {
+            "name": "Segmented Bar",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488343073368:40458",
+            "resources": [
+                "1701269468120742:2791682"
+            ]
+        }
+    },
+    "1702488343073368:40458": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Segmented Bar"
+            }
+        }
+    }
+}

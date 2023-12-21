@@ -1,0 +1,79 @@
+{
+    "1701552759693871:781287": {
+        "IFileManager": {
+            "path": "Files/File_1701552759693871_781287.pvr"
+        }
+    },
+    "1701552759696173:781288": {
+        "IResourceController": {
+            "name": "Yellow_Marker",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552759700059:781289",
+            "fileId": "1701552759693871:781287",
+            "originalId": "1701552759700482:781294",
+            "publicId": "1702488343470227:40507",
+            "expected_hash": "e0888a64751be8bf4b52b563f15b4232",
+            "additional": {
+                "originHash": "061f4eec63a725fcad75db4a334da99c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701552759700059:781289",
+            "name": "Files/File_1701552759693871_781287.png",
+            "flags": 1
+        }
+    },
+    "1701552759700059:781289": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "061f4eec63a725fcad75db4a334da99c"
+                    },
+                    "v": "1701552878317424:844346"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "500000",
+                "compressedSize": "41516",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "88588",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701552759710942:781295"
+        }
+    },
+    "1701552759700482:781294": {
+        "IFileManager": {
+            "path": "Files/File_1701552759700482_781294.png"
+        }
+    },
+    "1701552759710942:781295": {
+        "IFileManager": {
+            "path": "Files/File_1701552759710942_781295.png"
+        }
+    },
+    "1701552878317424:844346": {
+        "IFileManager": {
+            "path": "Files/File_1701552878317424_844346.pvr"
+        }
+    },
+    "1702488343470227:40507": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/Yellow_Marker.png",
+                "hash": "061f4eec63a725fcad75db4a334da99c"
+            }
+        }
+    }
+}

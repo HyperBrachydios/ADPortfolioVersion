@@ -1,0 +1,39 @@
+{
+    "1701550561928539:582980": {
+        "IFileManager": {
+            "path": "Files/File_1701550561928539_582980"
+        }
+    },
+    "1701550561931604:582981": {
+        "IResourceController": {
+            "name": "MonsterCard_Bramble_P2",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701550561935155:582982",
+            "fileId": "1701550561928539:582980",
+            "originalId": "1701550561935466:582988",
+            "publicId": "1702488343098599:40466",
+            "expected_hash": "0de1e6b745d481a0943ea0f099143ac0"
+        },
+        "IResourceManager": {
+            "uid": "1701550561935155:582982",
+            "name": "Files/File_1701550561928539_582980",
+            "flags": 1
+        }
+    },
+    "1701550561935466:582988": {
+        "IFileManager": {
+            "path": "Files/File_1701550561935466_582988.png"
+        }
+    },
+    "1702488343098599:40466": {
+        "IResourceController": {
+            "public": {
+                "path": "MonsterCard Markers/MonsterCard_Bramble_P2.png",
+                "hash": "e3dab03fb32565090152fdee6da8860f"
+            }
+        }
+    }
+}

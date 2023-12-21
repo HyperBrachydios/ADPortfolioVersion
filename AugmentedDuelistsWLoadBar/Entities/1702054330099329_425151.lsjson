@@ -1,0 +1,79 @@
+{
+    "1702054330089957:425150": {
+        "IFileManager": {
+            "path": "Files/File_1702054330089957_425150.pvr"
+        }
+    },
+    "1702054330099329:425151": {
+        "IResourceController": {
+            "name": "PlayspaceTemplate_003",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702054330132661:425152",
+            "fileId": "1702054330089957:425150",
+            "originalId": "1702054330137507:425157",
+            "publicId": "1702290573937276:39168",
+            "expected_hash": "d0d31d6e19177e03e33b573ff6e7f316",
+            "additional": {
+                "originHash": "bac1eaf548242b4bf3e9bd975d2a78ea"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1702054330132661:425152",
+            "name": "Files/File_1702054330089957_425150.jpg",
+            "flags": 1
+        }
+    },
+    "1702054330132661:425152": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5b1a3b6b8c694354928a6fad8a56a222"
+                    },
+                    "v": "1702054336663814:431432"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1482752",
+                "compressedSize": "15482",
+                "extension": "jpg",
+                "originalRAM": "11862016",
+                "originalSize": "396165",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1702054330201528:425158"
+        }
+    },
+    "1702054330137507:425157": {
+        "IFileManager": {
+            "path": "Files/File_1702054330137507_425157.jpg"
+        }
+    },
+    "1702054330201528:425158": {
+        "IFileManager": {
+            "path": "Files/File_1702054330201528_425158.jpg"
+        }
+    },
+    "1702054336663814:431432": {
+        "IFileManager": {
+            "path": "Files/File_1702054336663814_431432.pvr"
+        }
+    },
+    "1702290573937276:39168": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/PNG/PlayspaceTemplate_003.jpg",
+                "hash": "bac1eaf548242b4bf3e9bd975d2a78ea"
+            }
+        }
+    }
+}

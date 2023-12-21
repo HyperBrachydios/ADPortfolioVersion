@@ -1,0 +1,39 @@
+{
+    "1702054350354505:443453": {
+        "IFileManager": {
+            "path": "Files/File_1702054350354505_443453"
+        }
+    },
+    "1702054350358883:443454": {
+        "IResourceController": {
+            "name": "Material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702054350358898:443455",
+            "fileId": "1702054350354505:443453",
+            "originalId": "1702054350473189:443459",
+            "publicId": "1702488342424932:40322",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1702054350358898:443455",
+            "name": "Files/File_1702054350354505_443453",
+            "flags": 1
+        }
+    },
+    "1702054350473189:443459": {
+        "IFileManager": {
+            "path": "Files/File_1702054350473189_443459.lsmat"
+        }
+    },
+    "1702488342424932:40322": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/EverardMesh/Materials00010000/Material 2.lsmat",
+                "hash": "40c8a7d6610ccaf6eacf2dc0f6eb2089"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1702054007474583:391668": {
+        "IResourceController": {
+            "name": "NewModels",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342359715:40305",
+            "resources": [
+                "1702054007498004:391670",
+                "1702054065170010:423974",
+                "1702054019247565:393711"
+            ]
+        }
+    },
+    "1702488342359715:40305": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/NewModels"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1701269464395853:2790811": {
+        "IResourceController": {
+            "name": "Frame Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342961501:40427",
+            "resources": [
+                "1701269464190442:2790797",
+                "1701269465250470:2790949",
+                "1701269467230240:2791447",
+                "1701269467725944:2791513"
+            ]
+        }
+    },
+    "1702488342961501:40427": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Frame Materials"
+            }
+        }
+    }
+}

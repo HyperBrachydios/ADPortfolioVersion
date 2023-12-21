@@ -1,0 +1,38 @@
+{
+    "1701269462454743:2790563": {
+        "IFileManager": {
+            "path": "Files/File_1701269462454743_2790563.js"
+        }
+    },
+    "1701269462464256:2790564": {
+        "IResourceController": {
+            "name": "Behavior",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269462464319:2790565",
+            "fileId": "1701269462454743:2790563",
+            "publicId": "1702488342913689:40419",
+            "expected_hash": "6c7932e0df736f27b30f10f3f9e17b49"
+        },
+        "IResourceManager": {
+            "uid": "1701269462464319:2790565",
+            "name": "Files/File_1701269462454743_2790563.js",
+            "flags": 1
+        }
+    },
+    "1701269462464319:2790565": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342913689:40419": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Scripts/Behavior.js",
+                "hash": "6c7932e0df736f27b30f10f3f9e17b49"
+            }
+        }
+    }
+}

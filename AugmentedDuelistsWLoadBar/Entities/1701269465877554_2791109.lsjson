@@ -1,0 +1,33 @@
+{
+    "1701269465872056:2791108": {
+        "IFileManager": {
+            "path": "Files/File_1701269465872056_2791108.ttf"
+        }
+    },
+    "1701269465877554:2791109": {
+        "IResourceController": {
+            "name": "Lato-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269465877805:2791110",
+            "fileId": "1701269465872056:2791108",
+            "publicId": "1702290574852372:39263",
+            "expected_hash": "2d36b1a925432bae7f3c53a340868c6e"
+        },
+        "IResourceManager": {
+            "uid": "1701269465877805:2791110",
+            "name": "Files/File_1701269465872056_2791108.ttf",
+            "flags": 1
+        }
+    },
+    "1702290574852372:39263": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts/Lato-Regular.ttf",
+                "hash": "2d36b1a925432bae7f3c53a340868c6e"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1701269463834728:2790681": {
+        "IFileManager": {
+            "path": "Files/File_1701269463834728_2790681"
+        }
+    },
+    "1701269463838631:2790689": {
+        "IResourceController": {
+            "name": "Bar Mat 1 [EDIT ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269463838639:2790690",
+            "fileId": "1701269463834728:2790681",
+            "originalId": "1701269463881773:2790758",
+            "publicId": "1702499341279286:40467",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1701269463838639:2790690",
+            "name": "Files/File_1701269463834728_2790681",
+            "flags": 1
+        }
+    },
+    "1701269463881773:2790758": {
+        "IFileManager": {
+            "path": "Files/File_1701269463881773_2790758.lsmat"
+        }
+    },
+    "1702499341279286:40467": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Continuous Bar Material/Bar Mat 1 [EDIT ME].lsmat",
+                "hash": "a52e30ea4619facf498bbbef1be333d6"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1701269462261641:2790510": {
+        "IResourceController": {
+            "name": "_Progress Bar Ressources._",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574714165:39241",
+            "resources": [
+                "1701269462271975:2790512",
+                "1701269463702380:2790623",
+                "1701269465893951:2791120",
+                "1701269468046205:2791649"
+            ]
+        }
+    },
+    "1702290574714165:39241": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._"
+            }
+        }
+    }
+}

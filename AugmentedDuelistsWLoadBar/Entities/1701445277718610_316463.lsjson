@@ -1,0 +1,38 @@
+{
+    "1701445277710960:316460": {
+        "IFileManager": {
+            "path": "Files/File_1701445277710960_316460.js"
+        }
+    },
+    "1701445277718610:316463": {
+        "IResourceController": {
+            "name": "AttackCardReceiver",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701445277720306:316464",
+            "fileId": "1701445277710960:316460",
+            "publicId": "1702290572879146:39086",
+            "expected_hash": "96e118b2651d79e08a2197d4b6403dbd"
+        },
+        "IResourceManager": {
+            "uid": "1701445277720306:316464",
+            "name": "Files/File_1701445277710960_316460.js",
+            "flags": 1
+        }
+    },
+    "1701445277720306:316464": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702290572879146:39086": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Attack/AttackCardReceiver.js",
+                "hash": "96e118b2651d79e08a2197d4b6403dbd"
+            }
+        }
+    }
+}

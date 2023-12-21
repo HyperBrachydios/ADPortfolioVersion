@@ -1,0 +1,62 @@
+{
+    "1700689555927998:7172": {
+        "IResourceController": {
+            "name": "Spike_wheel_Animated",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1700689558998686:8741",
+            "publicId": "1702290573376659:39118",
+            "expected_hash": "18392a1bb7aed8510eae7341b4d6a3fe",
+            "resources": [
+                "1700689557288678:8048",
+                "1700689557605730:8220",
+                "1700689558961332:8637"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Brown",
+                        "v": "1700689557607691:8223"
+                    },
+                    {
+                        "k": "Grey",
+                        "v": "1700689557962314:8268"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1700689558292171:8304"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1700689558628176:8340"
+                    }
+                ]
+            }
+        }
+    },
+    "1700689558998686:8741": {
+        "IFileManager": {
+            "path": "Files/File_1700689558998686_8741.fbx"
+        }
+    },
+    "1702290573376659:39118": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Spike_wheel_Animated.fbx",
+                "hash": "18392a1bb7aed8510eae7341b4d6a3fe"
+            }
+        }
+    }
+}

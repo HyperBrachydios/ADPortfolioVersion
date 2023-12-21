@@ -1,0 +1,22 @@
+{
+    "1701269467017609:2791395": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574888789:39268",
+            "resources": [
+                "1701269466787047:2791381"
+            ]
+        }
+    },
+    "1702290574888789:39268": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Materials"
+            }
+        }
+    }
+}

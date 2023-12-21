@@ -1,0 +1,38 @@
+{
+    "1701549654943128:434390": {
+        "IFileManager": {
+            "path": "Files/File_1701549654943128_434390.js"
+        }
+    },
+    "1701549654948649:434391": {
+        "IResourceController": {
+            "name": "PlayspaceInitialState",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701549654948693:434392",
+            "fileId": "1701549654943128:434390",
+            "publicId": "1702488342203395:40268",
+            "expected_hash": "cf4601d60e16ab87e0eab3942fafb04e"
+        },
+        "IResourceManager": {
+            "uid": "1701549654948693:434392",
+            "name": "Files/File_1701549654943128_434390.js",
+            "flags": 1
+        }
+    },
+    "1701549654948693:434392": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342203395:40268": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Game/PlayspaceInitialState.js",
+                "hash": "cf4601d60e16ab87e0eab3942fafb04e"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1701269466784160:2791380": {
+        "IFileManager": {
+            "path": "Files/File_1701269466784160_2791380"
+        }
+    },
+    "1701269466787047:2791381": {
+        "IResourceController": {
+            "name": "Info Card Background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269466787056:2791382",
+            "fileId": "1701269466784160:2791380",
+            "originalId": "1701269466830262:2791388",
+            "publicId": "1702290574891243:39269",
+            "expected_hash": "9bb9413e58847d1854dd399e5fa58e4a"
+        },
+        "IResourceManager": {
+            "uid": "1701269466787056:2791382",
+            "name": "Files/File_1701269466784160_2791380",
+            "flags": 1
+        }
+    },
+    "1701269466830262:2791388": {
+        "IFileManager": {
+            "path": "Files/File_1701269466830262_2791388.lsmat"
+        }
+    },
+    "1702290574891243:39269": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Materials/Info Card Background.lsmat",
+                "hash": "f213d329e999b4cbf0f4e07f84f60ce6"
+            }
+        }
+    }
+}

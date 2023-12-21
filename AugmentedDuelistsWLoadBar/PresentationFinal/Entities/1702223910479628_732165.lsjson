@@ -1,0 +1,39 @@
+{
+    "1702223910473991:732164": {
+        "IFileManager": {
+            "path": "Files/File_1702223910473991_732164"
+        }
+    },
+    "1702223910479628:732165": {
+        "IResourceController": {
+            "name": "Empty Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702223910480215:732166",
+            "fileId": "1702223910473991:732164",
+            "originalId": "1702223910530569:732170",
+            "publicId": "1702499342102435:40593",
+            "expected_hash": "9fe2ad17389aa4b58ff5d81a92b80b20"
+        },
+        "IResourceManager": {
+            "uid": "1702223910480215:732166",
+            "name": "Files/File_1702223910473991_732164",
+            "flags": 1
+        }
+    },
+    "1702223910530569:732170": {
+        "IFileManager": {
+            "path": "Files/File_1702223910530569_732170.lsmat"
+        }
+    },
+    "1702499342102435:40593": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Materials/UI/Empty Material.lsmat",
+                "hash": "46d7c2727968804fe56c034c07cdc4a8"
+            }
+        }
+    }
+}

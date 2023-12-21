@@ -1,0 +1,79 @@
+{
+    "1701552759449233:781249": {
+        "IFileManager": {
+            "path": "Files/File_1701552759449233_781249.pvr"
+        }
+    },
+    "1701552759451674:781250": {
+        "IResourceController": {
+            "name": "MarkerPlayerSwitch",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552759457917:781251",
+            "fileId": "1701552759449233:781249",
+            "originalId": "1701552759458344:781256",
+            "publicId": "1702290575396150:39330",
+            "expected_hash": "899116daa3412865ec0af8502a6d39c1",
+            "additional": {
+                "originHash": "cab9e2a12170165c46e1f334b7808a56"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701552759457917:781251",
+            "name": "Files/File_1701552759449233_781249.png",
+            "flags": 1
+        }
+    },
+    "1701552759457917:781251": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cab9e2a12170165c46e1f334b7808a56"
+                    },
+                    "v": "1701552849612279:831972"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "500000",
+                "compressedSize": "67295",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "213817",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701552759471842:781257"
+        }
+    },
+    "1701552759458344:781256": {
+        "IFileManager": {
+            "path": "Files/File_1701552759458344_781256.png"
+        }
+    },
+    "1701552759471842:781257": {
+        "IFileManager": {
+            "path": "Files/File_1701552759471842_781257.png"
+        }
+    },
+    "1701552849612279:831972": {
+        "IFileManager": {
+            "path": "Files/File_1701552849612279_831972.pvr"
+        }
+    },
+    "1702290575396150:39330": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/MarkerPlayerSwitch.png",
+                "hash": "cab9e2a12170165c46e1f334b7808a56"
+            }
+        }
+    }
+}

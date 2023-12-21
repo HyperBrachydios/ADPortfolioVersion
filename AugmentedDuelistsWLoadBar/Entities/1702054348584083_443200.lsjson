@@ -1,0 +1,17 @@
+{
+    "1702054348584083:443200": {
+        "IResourceController": {
+            "name": "RightArm_ 3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1702054348584080:443199"
+        },
+        "IResourceManager": {
+            "uid": "1702054348584080:443199",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

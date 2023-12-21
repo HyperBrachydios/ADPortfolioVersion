@@ -1,0 +1,25 @@
+{
+    "1702054348595876:443318": {
+        "IResourceController": {
+            "name": "Materials000100000",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499340607643:40363",
+            "resources": [
+                "1702054348600708:443320",
+                "1702054349461329:443387",
+                "1702054350358883:443454",
+                "1702054351299601:443521"
+            ]
+        }
+    },
+    "1702499340607643:40363": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/EverardMesh/Materials000100000"
+            }
+        }
+    }
+}

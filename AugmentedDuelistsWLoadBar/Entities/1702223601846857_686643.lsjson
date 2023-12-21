@@ -1,0 +1,22 @@
+{
+    "1702223601846857:686643": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290575725916:39367",
+            "resources": [
+                "1702223601823994:686632"
+            ]
+        }
+    },
+    "1702290575725916:39367": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Scripts"
+            }
+        }
+    }
+}

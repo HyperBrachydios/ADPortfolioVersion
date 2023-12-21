@@ -1,0 +1,23 @@
+{
+    "1701269465896521:2791123": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342990155:40435",
+            "resources": [
+                "1701269465877554:2791109",
+                "1701269466612397:2791336"
+            ]
+        }
+    },
+    "1702488342990155:40435": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts"
+            }
+        }
+    }
+}

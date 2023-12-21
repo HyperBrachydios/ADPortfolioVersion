@@ -1,0 +1,30 @@
+{
+    "1702054018632839:393342": {
+        "IResourceController": {
+            "name": "BrambleMesh",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1702054018630329:393098",
+            "fileId": "1702054018768970:393696",
+            "originalId": "1702060907434342:670892",
+            "expected_hash": "41724200da0c6b31c5eb290147f1c0ac"
+        },
+        "IResourceManager": {
+            "uid": "1702054018630329:393098",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1702054018768970:393696": {
+        "IFileManager": {
+            "path": "Files/File_1702054018768970_393696.oprfb"
+        }
+    },
+    "1702060907434342:670892": {
+        "IFileManager": {
+            "path": "Files/File_1702060907434342_670892.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1702047366184836:227061": {
+        "IFileManager": {
+            "path": "Files/File_1702047366184836_227061"
+        }
+    },
+    "1702047366190285:227062": {
+        "IResourceController": {
+            "name": "Attack3Action",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702047366197920:227063",
+            "fileId": "1702047366184836:227061",
+            "originalId": "1702047366198267:227068",
+            "publicId": "1702488343674104:40536",
+            "expected_hash": "c144be5e58843d0e9ac957da9bf49dc0"
+        },
+        "IResourceManager": {
+            "uid": "1702047366197920:227063",
+            "name": "Files/File_1702047366184836_227061",
+            "flags": 1
+        }
+    },
+    "1702047366198267:227068": {
+        "IFileManager": {
+            "path": "Files/File_1702047366198267_227068.png"
+        }
+    },
+    "1702488343674104:40536": {
+        "IResourceController": {
+            "public": {
+                "path": "Attack3Action.png",
+                "hash": "9a66c510f3ee3631a502bd87cf96d730"
+            }
+        }
+    }
+}

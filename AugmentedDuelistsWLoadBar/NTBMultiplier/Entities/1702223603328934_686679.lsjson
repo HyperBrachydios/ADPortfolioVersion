@@ -1,0 +1,22 @@
+{
+    "1702223603328934:686679": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488343712321:40546",
+            "resources": [
+                "1702223603331007:686681"
+            ]
+        }
+    },
+    "1702488343712321:40546": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Materials"
+            }
+        }
+    }
+}

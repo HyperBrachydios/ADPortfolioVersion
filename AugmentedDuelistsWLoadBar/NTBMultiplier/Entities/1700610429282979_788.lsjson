@@ -1,0 +1,25 @@
+{
+    "1700610429282979:788": {
+        "IResourceController": {
+            "name": "PNG",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342451541:40330",
+            "resources": [
+                "1700610429288944:791",
+                "1700610429313376:801",
+                "1700610429343215:811",
+                "1700610429369017:821"
+            ]
+        }
+    },
+    "1702488342451541:40330": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG"
+            }
+        }
+    }
+}

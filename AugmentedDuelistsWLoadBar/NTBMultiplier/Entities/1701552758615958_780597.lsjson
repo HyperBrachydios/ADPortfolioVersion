@@ -1,0 +1,25 @@
+{
+    "1701552758615958:780597": {
+        "IResourceController": {
+            "name": "Affinity File",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488343231379:40487",
+            "resources": [
+                "1701552758619084:780600",
+                "1701552758635947:781126",
+                "1701552758651606:781134",
+                "1701552758663713:781142"
+            ]
+        }
+    },
+    "1702488343231379:40487": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/Affinity File"
+            }
+        }
+    }
+}

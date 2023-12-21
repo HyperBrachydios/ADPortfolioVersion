@@ -1,0 +1,38 @@
+{
+    "1700730220983034:1124070": {
+        "IFileManager": {
+            "path": "Files/File_1700730220983034_1124070.js"
+        }
+    },
+    "1700730220984997:1124071": {
+        "IResourceController": {
+            "name": "SceneManagerScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700730220985014:1124072",
+            "fileId": "1700730220983034:1124070",
+            "publicId": "1702290574708412:39239",
+            "expected_hash": "7e9ec302baf166f159cfaaeddac0df84"
+        },
+        "IResourceManager": {
+            "uid": "1700730220985014:1124072",
+            "name": "Files/File_1700730220983034_1124070.js",
+            "flags": 1
+        }
+    },
+    "1700730220985014:1124072": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702290574708412:39239": {
+        "IResourceController": {
+            "public": {
+                "path": "SceneManagerScript.js",
+                "hash": "7e9ec302baf166f159cfaaeddac0df84"
+            }
+        }
+    }
+}

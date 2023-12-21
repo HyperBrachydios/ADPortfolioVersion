@@ -1,0 +1,39 @@
+{
+    "1701269467722835:2791512": {
+        "IFileManager": {
+            "path": "Files/File_1701269467722835_2791512"
+        }
+    },
+    "1701269467725944:2791513": {
+        "IResourceController": {
+            "name": "Frame Material 4 [EDIT ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269467725950:2791514",
+            "fileId": "1701269467722835:2791512",
+            "originalId": "1701269467770546:2791520",
+            "publicId": "1702488342978121:40431",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1701269467725950:2791514",
+            "name": "Files/File_1701269467722835_2791512",
+            "flags": 1
+        }
+    },
+    "1701269467770546:2791520": {
+        "IFileManager": {
+            "path": "Files/File_1701269467770546_2791520.lsmat"
+        }
+    },
+    "1702488342978121:40431": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Frame Materials/Frame Material 4 [EDIT ME].lsmat",
+                "hash": "bd1766e52cd15bc95c0ea2d2db471382"
+            }
+        }
+    }
+}

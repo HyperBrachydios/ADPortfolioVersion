@@ -1,0 +1,38 @@
+{
+    "1701269462297225:2790521": {
+        "IFileManager": {
+            "path": "Files/File_1701269462297225_2790521.js"
+        }
+    },
+    "1701269462307457:2790524": {
+        "IResourceController": {
+            "name": "SegmentedBarUpdaterScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269462307600:2790525",
+            "fileId": "1701269462297225:2790521",
+            "publicId": "1702290574721934:39244",
+            "expected_hash": "3b1b492baec72f81297675c059cf6559"
+        },
+        "IResourceManager": {
+            "uid": "1701269462307600:2790525",
+            "name": "Files/File_1701269462297225_2790521.js",
+            "flags": 1
+        }
+    },
+    "1701269462307600:2790525": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702290574721934:39244": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Scripts/SegmentedBarUpdaterScript.js",
+                "hash": "3b1b492baec72f81297675c059cf6559"
+            }
+        }
+    }
+}

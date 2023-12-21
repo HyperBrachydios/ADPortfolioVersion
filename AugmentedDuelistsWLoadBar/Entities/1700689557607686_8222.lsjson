@@ -1,0 +1,39 @@
+{
+    "1700689557606286:8221": {
+        "IFileManager": {
+            "path": "Files/File_1700689557606286_8221"
+        }
+    },
+    "1700689557607686:8222": {
+        "IResourceController": {
+            "name": "Brown",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700689557607691:8223",
+            "fileId": "1700689557606286:8221",
+            "originalId": "1700689557629713:8227",
+            "publicId": "1702290573401981:39120",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1700689557607691:8223",
+            "name": "Files/File_1700689557606286_8221",
+            "flags": 1
+        }
+    },
+    "1700689557629713:8227": {
+        "IFileManager": {
+            "path": "Files/File_1700689557629713_8227.lsmat"
+        }
+    },
+    "1702290573401981:39120": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials00000000000001/Brown.lsmat",
+                "hash": "cc36038f7b297420cef52d9ce8402e8c"
+            }
+        }
+    }
+}

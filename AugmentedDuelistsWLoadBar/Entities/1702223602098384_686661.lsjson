@@ -1,0 +1,22 @@
+{
+    "1702223602098384:686661": {
+        "IResourceController": {
+            "name": "UI",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290575747222:39370",
+            "resources": [
+                "1702223602014774:686647"
+            ]
+        }
+    },
+    "1702290575747222:39370": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Meshes/UI"
+            }
+        }
+    }
+}

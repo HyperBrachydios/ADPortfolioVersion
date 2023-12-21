@@ -1,0 +1,17 @@
+{
+    "1700727981565908:248018": {
+        "IResourceController": {
+            "name": "jaw_01_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981565907:248017"
+        },
+        "IResourceManager": {
+            "uid": "1700727981565907:248017",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1701269466607077:2791335": {
+        "IFileManager": {
+            "path": "Files/File_1701269466607077_2791335.ttf"
+        }
+    },
+    "1701269466612397:2791336": {
+        "IResourceController": {
+            "name": "Lato-Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269466612419:2791337",
+            "fileId": "1701269466607077:2791335",
+            "publicId": "1702488342996627:40437",
+            "expected_hash": "85d339d916479f729938d2911b85bf1f"
+        },
+        "IResourceManager": {
+            "uid": "1701269466612419:2791337",
+            "name": "Files/File_1701269466607077_2791335.ttf",
+            "flags": 1
+        }
+    },
+    "1702488342996627:40437": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts/Lato-Bold.ttf",
+                "hash": "85d339d916479f729938d2911b85bf1f"
+            }
+        }
+    }
+}

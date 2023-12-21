@@ -1,0 +1,39 @@
+{
+    "1702054327273975:424315": {
+        "IFileManager": {
+            "path": "Files/File_1702054327273975_424315"
+        }
+    },
+    "1702054327276787:424316": {
+        "IResourceController": {
+            "name": "Material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702054327276801:424317",
+            "fileId": "1702054327273975:424315",
+            "originalId": "1702054327324388:424321",
+            "publicId": "1702488342395576:40315",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1702054327276801:424317",
+            "name": "Files/File_1702054327273975_424315",
+            "flags": 1
+        }
+    },
+    "1702054327324388:424321": {
+        "IFileManager": {
+            "path": "Files/File_1702054327324388_424321.lsmat"
+        }
+    },
+    "1702488342395576:40315": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/SheldonMesh4/Materials00010000/Material 2.lsmat",
+                "hash": "be15b69f41d41a22ab4b065f23ff50ed"
+            }
+        }
+    }
+}

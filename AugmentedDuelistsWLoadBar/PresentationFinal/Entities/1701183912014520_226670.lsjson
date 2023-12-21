@@ -1,0 +1,38 @@
+{
+    "1701183912007861:226669": {
+        "IFileManager": {
+            "path": "Files/File_1701183912007861_226669.js"
+        }
+    },
+    "1701183912014520:226670": {
+        "IResourceController": {
+            "name": "UIController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701183912016471:226671",
+            "fileId": "1701183912007861:226669",
+            "publicId": "1702499340217219:40306",
+            "expected_hash": "192af0214399a5cfcdbf915e0e9c97a7"
+        },
+        "IResourceManager": {
+            "uid": "1701183912016471:226671",
+            "name": "Files/File_1701183912007861_226669.js",
+            "flags": 1
+        }
+    },
+    "1701183912016471:226671": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702499340217219:40306": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/UI/UIController.js",
+                "hash": "192af0214399a5cfcdbf915e0e9c97a7"
+            }
+        }
+    }
+}

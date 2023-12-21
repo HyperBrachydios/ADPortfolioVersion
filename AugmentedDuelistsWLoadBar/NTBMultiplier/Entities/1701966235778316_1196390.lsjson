@@ -1,0 +1,30 @@
+{
+    "1701966235778316:1196390": {
+        "IResourceController": {
+            "name": "SheldonMesh4",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701966235777541:1196205",
+            "fileId": "1701966235883375:1196655",
+            "originalId": "1701973242323084:1324814",
+            "expected_hash": "36cc93f822195bed1ea1b755284a0d6e"
+        },
+        "IResourceManager": {
+            "uid": "1701966235777541:1196205",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1701966235883375:1196655": {
+        "IFileManager": {
+            "path": "Files/File_1701966235883375_1196655.oprfb"
+        }
+    },
+    "1701973242323084:1324814": {
+        "IFileManager": {
+            "path": "Files/File_1701973242323084_1324814.oprfb"
+        }
+    }
+}

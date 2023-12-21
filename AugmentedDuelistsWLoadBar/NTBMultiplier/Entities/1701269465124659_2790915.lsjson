@@ -1,0 +1,22 @@
+{
+    "1701269465124659:2790915": {
+        "IResourceController": {
+            "name": "Segmented Bar Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488342983523:40432",
+            "resources": [
+                "1701269464924478:2790901"
+            ]
+        }
+    },
+    "1702488342983523:40432": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Segmented Bar Materials"
+            }
+        }
+    }
+}

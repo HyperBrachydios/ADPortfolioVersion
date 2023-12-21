@@ -1,0 +1,39 @@
+{
+    "1702223602587074:686666": {
+        "IFileManager": {
+            "path": "Files/File_1702223602587074_686666"
+        }
+    },
+    "1702223602595092:686667": {
+        "IResourceController": {
+            "name": "ui_loading [EDIT_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702223602595122:686668",
+            "fileId": "1702223602587074:686666",
+            "originalId": "1702223602738476:686672",
+            "publicId": "1702290575764034:39374",
+            "expected_hash": "ba9446eec64109fbeffdeecb57a1577d"
+        },
+        "IResourceManager": {
+            "uid": "1702223602595122:686668",
+            "name": "Files/File_1702223602587074_686666",
+            "flags": 1
+        }
+    },
+    "1702223602738476:686672": {
+        "IFileManager": {
+            "path": "Files/File_1702223602738476_686672.lsmat"
+        }
+    },
+    "1702290575764034:39374": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Materials/UI/ui_loading [EDIT_ME].lsmat",
+                "hash": "252c009597166bba62695eb5fccd85cd"
+            }
+        }
+    }
+}

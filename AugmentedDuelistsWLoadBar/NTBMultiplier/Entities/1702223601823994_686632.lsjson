@@ -1,0 +1,38 @@
+{
+    "1702223601815223:686631": {
+        "IFileManager": {
+            "path": "Files/File_1702223601815223_686631.js"
+        }
+    },
+    "1702223601823994:686632": {
+        "IResourceController": {
+            "name": "3DLoadingIndicator",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702223601824284:686633",
+            "fileId": "1702223601815223:686631",
+            "publicId": "1702488343692506:40542",
+            "expected_hash": "5b1b4b7ac70d174f5fe97a0c92046ed9"
+        },
+        "IResourceManager": {
+            "uid": "1702223601824284:686633",
+            "name": "Files/File_1702223601815223_686631.js",
+            "flags": 1
+        }
+    },
+    "1702223601824284:686633": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488343692506:40542": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Scripts/3DLoadingIndicator.js",
+                "hash": "5b1b4b7ac70d174f5fe97a0c92046ed9"
+            }
+        }
+    }
+}

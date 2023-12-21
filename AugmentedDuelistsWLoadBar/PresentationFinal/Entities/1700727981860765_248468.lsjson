@@ -1,0 +1,39 @@
+{
+    "1700727981858656:248467": {
+        "IFileManager": {
+            "path": "Files/File_1700727981858656_248467"
+        }
+    },
+    "1700727981860765:248468": {
+        "IResourceController": {
+            "name": "mark_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981860772:248469",
+            "fileId": "1700727981858656:248467",
+            "originalId": "1700727981893760:248475",
+            "publicId": "1702499341147289:40450",
+            "expected_hash": "892343d8cc39d44d84fc9b376ae2bdc6"
+        },
+        "IResourceManager": {
+            "uid": "1700727981860772:248469",
+            "name": "Files/File_1700727981858656_248467",
+            "flags": 1
+        }
+    },
+    "1700727981893760:248475": {
+        "IFileManager": {
+            "path": "Files/File_1700727981893760_248475.lsmat"
+        }
+    },
+    "1702499341147289:40450": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources/Materials/mark_material.lsmat",
+                "hash": "83f6794593827bf11d8a1471e53ee0a2"
+            }
+        }
+    }
+}

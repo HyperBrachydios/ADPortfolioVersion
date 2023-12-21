@@ -1,0 +1,23 @@
+{
+    "1701269468251955:2791730": {
+        "IResourceController": {
+            "name": "Design 4",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574919006:39276",
+            "resources": [
+                "1701269468229997:2791716",
+                "1701269468486883:2791828"
+            ]
+        }
+    },
+    "1702290574919006:39276": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Continuous Reduction Bar/Design 4"
+            }
+        }
+    }
+}

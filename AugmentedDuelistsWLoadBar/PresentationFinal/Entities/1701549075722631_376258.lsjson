@@ -1,0 +1,39 @@
+{
+    "1701549075721397:376257": {
+        "IFileManager": {
+            "path": "Files/File_1701549075721397_376257"
+        }
+    },
+    "1701549075722631:376258": {
+        "IResourceController": {
+            "name": "Black",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701549075722636:376259",
+            "fileId": "1701549075721397:376257",
+            "originalId": "1701549075773292:376263",
+            "publicId": "1702499341527648:40517",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1701549075722636:376259",
+            "name": "Files/File_1701549075721397_376257",
+            "flags": 1
+        }
+    },
+    "1701549075773292:376263": {
+        "IFileManager": {
+            "path": "Files/File_1701549075773292_376263.lsmat"
+        }
+    },
+    "1702499341527648:40517": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapcode_Resources/Black.lsmat",
+                "hash": "2edc599d99b3b9a4e1af7245c3e3878f"
+            }
+        }
+    }
+}

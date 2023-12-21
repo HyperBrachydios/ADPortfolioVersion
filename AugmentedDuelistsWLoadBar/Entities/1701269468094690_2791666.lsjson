@@ -1,0 +1,79 @@
+{
+    "1701269468090878:2791665": {
+        "IFileManager": {
+            "path": "Files/File_1701269468090878_2791665.pvr"
+        }
+    },
+    "1701269468094690:2791666": {
+        "IResourceController": {
+            "name": "Hearth",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269468095738:2791667",
+            "fileId": "1701269468090878:2791665",
+            "originalId": "1701269468096354:2791672",
+            "publicId": "1702290574967864:39287",
+            "expected_hash": "0827ceca64d27d592e1b24856365e7f8",
+            "additional": {
+                "originHash": "1db61ce5923b56e8f4a845650b468eef"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701269468095738:2791667",
+            "name": "Files/File_1701269468090878_2791665.jpg",
+            "flags": 1
+        }
+    },
+    "1701269468095738:2791667": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1db61ce5923b56e8f4a845650b468eef"
+                    },
+                    "v": "1701269482096703:2800989"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1352",
+                "compressedSize": "1378",
+                "extension": "png",
+                "originalRAM": "10200",
+                "originalSize": "2358",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701269468123286:2791684"
+        }
+    },
+    "1701269468096354:2791672": {
+        "IFileManager": {
+            "path": "Files/File_1701269468096354_2791672.png"
+        }
+    },
+    "1701269468123286:2791684": {
+        "IFileManager": {
+            "path": "Files/File_1701269468123286_2791684.png"
+        }
+    },
+    "1701269482096703:2800989": {
+        "IFileManager": {
+            "path": "Files/File_1701269482096703_2800989.pvr"
+        }
+    },
+    "1702290574967864:39287": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Segmented Bar/Design 1/Hearth.png",
+                "hash": "1db61ce5923b56e8f4a845650b468eef"
+            }
+        }
+    }
+}

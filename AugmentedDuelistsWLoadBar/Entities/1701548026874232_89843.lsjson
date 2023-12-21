@@ -1,0 +1,79 @@
+{
+    "1701548026869081:89842": {
+        "IFileManager": {
+            "path": "Files/File_1701548026869081_89842.pvr"
+        }
+    },
+    "1701548026874232:89843": {
+        "IResourceController": {
+            "name": "MonsterCard_Sheldon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701548026878359:89844",
+            "fileId": "1701548026869081:89842",
+            "originalId": "1701548026879108:89849",
+            "publicId": "1702290574202997:39199",
+            "expected_hash": "8d2398faa868238391ab8c34c4644846",
+            "additional": {
+                "originHash": "d45d5306a77652dff38f79748469b3e7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701548026878359:89844",
+            "name": "Files/File_1701548026869081_89842.png",
+            "flags": 1
+        }
+    },
+    "1701548026878359:89844": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d45d5306a77652dff38f79748469b3e7"
+                    },
+                    "v": "1701548104233349:126969"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "463088",
+                "compressedSize": "78711",
+                "extension": "png",
+                "originalRAM": "3689136",
+                "originalSize": "237615",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701548026898799:89858"
+        }
+    },
+    "1701548026879108:89849": {
+        "IFileManager": {
+            "path": "Files/File_1701548026879108_89849.png"
+        }
+    },
+    "1701548026898799:89858": {
+        "IFileManager": {
+            "path": "Files/File_1701548026898799_89858.png"
+        }
+    },
+    "1701548104233349:126969": {
+        "IFileManager": {
+            "path": "Files/File_1701548104233349_126969.pvr"
+        }
+    },
+    "1702290574202997:39199": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterCards/MonsterCard_Sheldon.png",
+                "hash": "d45d5306a77652dff38f79748469b3e7"
+            }
+        }
+    }
+}

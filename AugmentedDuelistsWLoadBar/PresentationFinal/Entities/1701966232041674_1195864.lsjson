@@ -1,0 +1,17 @@
+{
+    "1701966232041674:1195864": {
+        "IResourceController": {
+            "name": "Bone.001_ 4",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701966232041672:1195863"
+        },
+        "IResourceManager": {
+            "uid": "1701966232041672:1195863",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1701552849355595:829014": {
+        "IFileManager": {
+            "path": "Files/File_1701552849355595_829014"
+        }
+    },
+    "1701552849359471:829015": {
+        "IResourceController": {
+            "name": "P1_AttackB",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552849363768:829016",
+            "fileId": "1701552849355595:829014",
+            "originalId": "1701552849364141:829021",
+            "publicId": "1702290575077832:39303",
+            "expected_hash": "a0ee272b4343876a0551582cbfcf025d"
+        },
+        "IResourceManager": {
+            "uid": "1701552849363768:829016",
+            "name": "Files/File_1701552849355595_829014",
+            "flags": 1
+        }
+    },
+    "1701552849364141:829021": {
+        "IFileManager": {
+            "path": "Files/File_1701552849364141_829021.png"
+        }
+    },
+    "1702290575077832:39303": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionCard Markers/P1_AttackB.png",
+                "hash": "288398147ed5e53d7aa4466d2231d7cd"
+            }
+        }
+    }
+}

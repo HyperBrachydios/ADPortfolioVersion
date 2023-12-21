@@ -1,0 +1,17 @@
+{
+    "1702054348569031:443053": {
+        "IResourceController": {
+            "name": "Body_",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1702054348569018:443052"
+        },
+        "IResourceManager": {
+            "uid": "1702054348569018:443052",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

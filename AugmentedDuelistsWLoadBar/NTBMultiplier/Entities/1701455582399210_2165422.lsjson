@@ -1,0 +1,38 @@
+{
+    "1701455582392380:2165421": {
+        "IFileManager": {
+            "path": "Files/File_1701455582392380_2165421.js"
+        }
+    },
+    "1701455582399210:2165422": {
+        "IResourceController": {
+            "name": "TestUpdate",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701455582399978:2165423",
+            "fileId": "1701455582392380:2165421",
+            "publicId": "1702488342219560:40274",
+            "expected_hash": "c3cf6a4a1383f40c75dbae1cba14133c"
+        },
+        "IResourceManager": {
+            "uid": "1701455582399978:2165423",
+            "name": "Files/File_1701455582392380_2165421.js",
+            "flags": 1
+        }
+    },
+    "1701455582399978:2165423": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342219560:40274": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TestUpdate.js",
+                "hash": "c3cf6a4a1383f40c75dbae1cba14133c"
+            }
+        }
+    }
+}

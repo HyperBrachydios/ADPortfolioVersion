@@ -1,0 +1,25 @@
+{
+    "1700727981532447:247944": {
+        "IResourceController": {
+            "name": "Mark the Monster Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574580213:39222",
+            "resources": [
+                "1700727981533322:247946",
+                "1700727981560293:247961",
+                "1700727981609757:248312",
+                "1700727982111880:248482"
+            ]
+        }
+    },
+    "1702290574580213:39222": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources"
+            }
+        }
+    }
+}

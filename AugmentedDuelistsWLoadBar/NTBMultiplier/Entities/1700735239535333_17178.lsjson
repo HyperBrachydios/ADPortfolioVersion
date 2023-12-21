@@ -1,0 +1,38 @@
+{
+    "1700735239530112:17177": {
+        "IFileManager": {
+            "path": "Files/File_1700735239530112_17177.js"
+        }
+    },
+    "1700735239535333:17178": {
+        "IResourceController": {
+            "name": "MonsterInfo",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700735239535378:17179",
+            "fileId": "1700735239530112:17177",
+            "publicId": "1702488342213106:40271",
+            "expected_hash": "a63cae5c9682e245e8c5ab23da7ce5a9"
+        },
+        "IResourceManager": {
+            "uid": "1700735239535378:17179",
+            "name": "Files/File_1700735239530112_17177.js",
+            "flags": 1
+        }
+    },
+    "1700735239535378:17179": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342213106:40271": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Monsters/MonsterInfo.js",
+                "hash": "a63cae5c9682e245e8c5ab23da7ce5a9"
+            }
+        }
+    }
+}

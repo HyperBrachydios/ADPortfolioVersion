@@ -1,0 +1,39 @@
+{
+    "1700728046097676:274831": {
+        "IFileManager": {
+            "path": "Files/File_1700728046097676_274831"
+        }
+    },
+    "1700728046100817:274832": {
+        "IResourceController": {
+            "name": "MonsterMarker_SpikeyWheel",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700728046104511:274833",
+            "fileId": "1700728046097676:274831",
+            "originalId": "1700728046104917:274838",
+            "publicId": "1702488342723992:40380",
+            "expected_hash": "56ade7d226a94e652c24563b800a09f2"
+        },
+        "IResourceManager": {
+            "uid": "1700728046104511:274833",
+            "name": "Files/File_1700728046097676_274831",
+            "flags": 1
+        }
+    },
+    "1700728046104917:274838": {
+        "IFileManager": {
+            "path": "Files/File_1700728046104917_274838.png"
+        }
+    },
+    "1702488342723992:40380": {
+        "IResourceController": {
+            "public": {
+                "path": "MonsterMarker_SpikeyWheel.png",
+                "hash": "a19e9f0014af61ea7f61b6019ca14739"
+            }
+        }
+    }
+}

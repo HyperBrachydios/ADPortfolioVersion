@@ -1,0 +1,23 @@
+{
+    "1700610429397859:834": {
+        "IResourceController": {
+            "name": "Affinity Files",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499340736828:40380",
+            "resources": [
+                "1700610429400396:837",
+                "1700610429406727:845"
+            ]
+        }
+    },
+    "1702499340736828:40380": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/Affinity Files"
+            }
+        }
+    }
+}

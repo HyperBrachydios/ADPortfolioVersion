@@ -1,0 +1,79 @@
+{
+    "1701945500915274:296431": {
+        "IFileManager": {
+            "path": "Files/File_1701945500915274_296431.pvr"
+        }
+    },
+    "1701945500921106:296434": {
+        "IResourceController": {
+            "name": "Tracking Marker 4",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701945500931489:296435",
+            "fileId": "1701945500915274:296431",
+            "originalId": "1701945500932132:296440",
+            "publicId": "1702499341861676:40553",
+            "expected_hash": "e0a3881d777eed8a3fb485d3153c4f76",
+            "additional": {
+                "originHash": "ca9de9f7486dae725b0f156789e6c6cf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701945500931489:296435",
+            "name": "Files/File_1701945500915274_296431.jpg",
+            "flags": 1
+        }
+    },
+    "1701945500931489:296435": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ca9de9f7486dae725b0f156789e6c6cf"
+                    },
+                    "v": "1701945501706877:299776"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "180000",
+                "compressedSize": "3078",
+                "extension": "jpg",
+                "originalRAM": "1440000",
+                "originalSize": "5023",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701945500939993:296447"
+        }
+    },
+    "1701945500932132:296440": {
+        "IFileManager": {
+            "path": "Files/File_1701945500932132_296440.jpg"
+        }
+    },
+    "1701945500939993:296447": {
+        "IFileManager": {
+            "path": "Files/File_1701945500939993_296447.jpg"
+        }
+    },
+    "1701945501706877:299776": {
+        "IFileManager": {
+            "path": "Files/File_1701945501706877_299776.pvr"
+        }
+    },
+    "1702499341861676:40553": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/Tracking Marker 4.jpg",
+                "hash": "ca9de9f7486dae725b0f156789e6c6cf"
+            }
+        }
+    }
+}

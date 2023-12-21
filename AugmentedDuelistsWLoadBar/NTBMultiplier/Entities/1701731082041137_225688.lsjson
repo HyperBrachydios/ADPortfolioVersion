@@ -1,0 +1,38 @@
+{
+    "1701731082038577:225687": {
+        "IFileManager": {
+            "path": "Files/File_1701731082038577_225687.js"
+        }
+    },
+    "1701731082041137:225688": {
+        "IResourceController": {
+            "name": "WinScreenConfig",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701731082041572:225689",
+            "fileId": "1701731082038577:225687",
+            "publicId": "1702488342210244:40269",
+            "expected_hash": "6a9a87a9cf1b65a735cbdabc2cebcb46"
+        },
+        "IResourceManager": {
+            "uid": "1701731082041572:225689",
+            "name": "Files/File_1701731082038577_225687.js",
+            "flags": 1
+        }
+    },
+    "1701731082041572:225689": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342210244:40269": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Game/WinScreenConfig.js",
+                "hash": "6a9a87a9cf1b65a735cbdabc2cebcb46"
+            }
+        }
+    }
+}

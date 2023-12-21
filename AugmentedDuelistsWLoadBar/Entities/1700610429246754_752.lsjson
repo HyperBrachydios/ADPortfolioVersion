@@ -1,0 +1,23 @@
+{
+    "1700610429246754:752": {
+        "IResourceController": {
+            "name": "Markers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290573731142:39151",
+            "resources": [
+                "1700610429248188:754",
+                "1700610429282979:788"
+            ]
+        }
+    },
+    "1702290573731142:39151": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers"
+            }
+        }
+    }
+}

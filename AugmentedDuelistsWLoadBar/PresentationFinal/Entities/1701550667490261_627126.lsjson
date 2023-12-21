@@ -1,0 +1,39 @@
+{
+    "1701550667487382:627125": {
+        "IFileManager": {
+            "path": "Files/File_1701550667487382_627125"
+        }
+    },
+    "1701550667490261:627126": {
+        "IResourceController": {
+            "name": "MonsterCard_Sheldon_P1",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701550667493769:627127",
+            "fileId": "1701550667487382:627125",
+            "originalId": "1701550667494085:627132",
+            "publicId": "1702499341493257:40511",
+            "expected_hash": "946e36b4508d686172560ca35118da4b"
+        },
+        "IResourceManager": {
+            "uid": "1701550667493769:627127",
+            "name": "Files/File_1701550667487382_627125",
+            "flags": 1
+        }
+    },
+    "1701550667494085:627132": {
+        "IFileManager": {
+            "path": "Files/File_1701550667494085_627132.png"
+        }
+    },
+    "1702499341493257:40511": {
+        "IResourceController": {
+            "public": {
+                "path": "MonsterCard Markers/MonsterCard_Sheldon_P1.png",
+                "hash": "d45d5306a77652dff38f79748469b3e7"
+            }
+        }
+    }
+}

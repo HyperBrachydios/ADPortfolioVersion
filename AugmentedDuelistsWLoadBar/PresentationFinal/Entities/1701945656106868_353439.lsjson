@@ -1,0 +1,39 @@
+{
+    "1701945656092084:353436": {
+        "IFileManager": {
+            "path": "Files/File_1701945656092084_353436"
+        }
+    },
+    "1701945656106868:353439": {
+        "IResourceController": {
+            "name": "Tracking Marker 4",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701945656121940:353440",
+            "fileId": "1701945656092084:353436",
+            "originalId": "1701945656122678:353445",
+            "publicId": "1702499341641748:40528",
+            "expected_hash": "575ad8d7b8fee1012b8ab9f4c31e3f5a"
+        },
+        "IResourceManager": {
+            "uid": "1701945656121940:353440",
+            "name": "Files/File_1701945656092084_353436",
+            "flags": 1
+        }
+    },
+    "1701945656122678:353445": {
+        "IFileManager": {
+            "path": "Files/File_1701945656122678_353445.jpg"
+        }
+    },
+    "1702499341641748:40528": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionCard Markers/Tracking Marker 4.jpg",
+                "hash": "ca9de9f7486dae725b0f156789e6c6cf"
+            }
+        }
+    }
+}

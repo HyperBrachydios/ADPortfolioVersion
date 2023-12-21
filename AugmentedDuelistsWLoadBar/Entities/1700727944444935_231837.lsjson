@@ -1,0 +1,79 @@
+{
+    "1700727944439965:231833": {
+        "IFileManager": {
+            "path": "Files/File_1700727944439965_231833.pvr"
+        }
+    },
+    "1700727944444935:231837": {
+        "IResourceController": {
+            "name": "SpikyShell_MonsterMarker",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727944450962:231840",
+            "fileId": "1700727944439965:231833",
+            "originalId": "1700727944456716:231931",
+            "publicId": "1702290573971833:39171",
+            "expected_hash": "e092d8f368876090e3b5aad59c6c4a18",
+            "additional": {
+                "originHash": "ba92ec432c951243ad5116542a60fd37"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700727944450962:231840",
+            "name": "Files/File_1700727944439965_231833.png",
+            "flags": 1
+        }
+    },
+    "1700727944450962:231840": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ba92ec432c951243ad5116542a60fd37"
+                    },
+                    "v": "1700727976437396:243090"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1036800",
+                "compressedSize": "250393",
+                "extension": "png",
+                "originalRAM": "8294400",
+                "originalSize": "1369582",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700727944498124:231943"
+        }
+    },
+    "1700727944456716:231931": {
+        "IFileManager": {
+            "path": "Files/File_1700727944456716_231931.png"
+        }
+    },
+    "1700727944498124:231943": {
+        "IFileManager": {
+            "path": "Files/File_1700727944498124_231943.png"
+        }
+    },
+    "1700727976437396:243090": {
+        "IFileManager": {
+            "path": "Files/File_1700727976437396_243090.pvr"
+        }
+    },
+    "1702290573971833:39171": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterMarker/SpikyShell_MonsterMarker.png",
+                "hash": "ba92ec432c951243ad5116542a60fd37"
+            }
+        }
+    }
+}

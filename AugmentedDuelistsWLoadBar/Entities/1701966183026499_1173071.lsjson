@@ -1,0 +1,39 @@
+{
+    "1701966183023890:1173070": {
+        "IFileManager": {
+            "path": "Files/File_1701966183023890_1173070"
+        }
+    },
+    "1701966183026499:1173071": {
+        "IResourceController": {
+            "name": "Material 3",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701966183026505:1173072",
+            "fileId": "1701966183023890:1173070",
+            "originalId": "1701966183071129:1173076",
+            "publicId": "1702290575648906:39358",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1701966183026505:1173072",
+            "name": "Files/File_1701966183023890_1173070",
+            "flags": 1
+        }
+    },
+    "1701966183071129:1173076": {
+        "IFileManager": {
+            "path": "Files/File_1701966183071129_1173076.lsmat"
+        }
+    },
+    "1702290575648906:39358": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/SheldonMesh4/Materials/Material 3.lsmat",
+                "hash": "10db9e1225e36da3b95905ca6188e8ef"
+            }
+        }
+    }
+}

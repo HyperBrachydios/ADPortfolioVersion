@@ -1,0 +1,39 @@
+{
+    "1701459998661549:3189955": {
+        "IResourceController": {
+            "name": "Manager",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701459998658857:3189918",
+            "fileId": "1701459998761265:3190071",
+            "originalId": "1701478306461015:4632349",
+            "publicId": "1702290574048912:39181",
+            "expected_hash": "7075a42b62e36e312ef916d3d7243c9c"
+        },
+        "IResourceManager": {
+            "uid": "1701459998658857:3189918",
+            "name": "Manager",
+            "flags": 0
+        }
+    },
+    "1701459998761265:3190071": {
+        "IFileManager": {
+            "path": "Files/File_1701459998761265_3190071.oprfb"
+        }
+    },
+    "1701478306461015:4632349": {
+        "IFileManager": {
+            "path": "Files/File_1701478306461015_4632349.oprfb"
+        }
+    },
+    "1702290574048912:39181": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Prefabs/Manager.oprfb",
+                "hash": "3f158afbc5b228cb75f602bea6ae1e6e"
+            }
+        }
+    }
+}

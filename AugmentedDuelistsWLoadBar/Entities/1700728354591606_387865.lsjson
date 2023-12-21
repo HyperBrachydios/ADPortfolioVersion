@@ -1,0 +1,62 @@
+{
+    "1700728354591606:387865": {
+        "IResourceController": {
+            "name": "Spike_wheel_Animated",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1700728359044660:389646",
+            "publicId": "1702290574498921:39210",
+            "expected_hash": "18392a1bb7aed8510eae7341b4d6a3fe",
+            "resources": [
+                "1700728356698837:388425",
+                "1700728357016173:388677",
+                "1700728358990962:389534"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Brown",
+                        "v": "1700728357018072:388680"
+                    },
+                    {
+                        "k": "Grey",
+                        "v": "1700728357540494:388845"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1700728357968544:388985"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1700728358414962:389109"
+                    }
+                ]
+            }
+        }
+    },
+    "1700728359044660:389646": {
+        "IFileManager": {
+            "path": "Files/File_1700728359044660_389646.fbx"
+        }
+    },
+    "1702290574498921:39210": {
+        "IResourceController": {
+            "public": {
+                "path": "Spike_wheel_Animated.fbx",
+                "hash": "18392a1bb7aed8510eae7341b4d6a3fe"
+            }
+        }
+    }
+}

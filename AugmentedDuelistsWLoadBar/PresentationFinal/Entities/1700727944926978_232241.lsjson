@@ -1,0 +1,38 @@
+{
+    "1700727944922981:232240": {
+        "IFileManager": {
+            "path": "Files/File_1700727944922981_232240.js"
+        }
+    },
+    "1700727944926978:232241": {
+        "IResourceController": {
+            "name": "Coroutine",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727944927004:232242",
+            "fileId": "1700727944922981:232240",
+            "publicId": "1702499340979555:40422",
+            "expected_hash": "a4cc52628a7dee6b8c2cdbf1acd24ef8"
+        },
+        "IResourceManager": {
+            "uid": "1700727944927004:232242",
+            "name": "Files/File_1700727944922981_232240.js",
+            "flags": 1
+        }
+    },
+    "1700727944927004:232242": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702499340979555:40422": {
+        "IResourceController": {
+            "public": {
+                "path": "Coroutine.js",
+                "hash": "a4cc52628a7dee6b8c2cdbf1acd24ef8"
+            }
+        }
+    }
+}

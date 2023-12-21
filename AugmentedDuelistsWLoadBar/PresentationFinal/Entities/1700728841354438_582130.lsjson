@@ -1,0 +1,39 @@
+{
+    "1700728841351618:582129": {
+        "IFileManager": {
+            "path": "Files/File_1700728841351618_582129"
+        }
+    },
+    "1700728841354438:582130": {
+        "IResourceController": {
+            "name": "SpikyShell_MonsterMarker",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700728841358649:582131",
+            "fileId": "1700728841351618:582129",
+            "originalId": "1700728841358930:582136",
+            "publicId": "1702499341189412:40454",
+            "expected_hash": "adf8ce11e45e5613aec3094a416477a8"
+        },
+        "IResourceManager": {
+            "uid": "1700728841358649:582131",
+            "name": "Files/File_1700728841351618_582129",
+            "flags": 1
+        }
+    },
+    "1700728841358930:582136": {
+        "IFileManager": {
+            "path": "Files/File_1700728841358930_582136.png"
+        }
+    },
+    "1702499341189412:40454": {
+        "IResourceController": {
+            "public": {
+                "path": "SpikyShell_MonsterMarker.png",
+                "hash": "ba92ec432c951243ad5116542a60fd37"
+            }
+        }
+    }
+}

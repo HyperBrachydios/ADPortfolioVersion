@@ -1,0 +1,79 @@
+{
+    "1701269468615185:2791889": {
+        "IFileManager": {
+            "path": "Files/File_1701269468615185_2791889.pvr"
+        }
+    },
+    "1701269468618855:2791890": {
+        "IResourceController": {
+            "name": "Life bar 5",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269468619928:2791891",
+            "fileId": "1701269468615185:2791889",
+            "originalId": "1701269468620690:2791896",
+            "publicId": "1702499341439758:40501",
+            "expected_hash": "0eaefd353c90fb1c31ce35c8fad90c27",
+            "additional": {
+                "originHash": "4e1d739d73c597a2632ee6c57da2dbe9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701269468619928:2791891",
+            "name": "Files/File_1701269468615185_2791889.jpg",
+            "flags": 1
+        }
+    },
+    "1701269468619928:2791891": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4e1d739d73c597a2632ee6c57da2dbe9"
+                    },
+                    "v": "1701269483095701:2806130"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4416",
+                "compressedSize": "1492",
+                "extension": "png",
+                "originalRAM": "33852",
+                "originalSize": "2198",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701269468643437:2791904"
+        }
+    },
+    "1701269468620690:2791896": {
+        "IFileManager": {
+            "path": "Files/File_1701269468620690_2791896.png"
+        }
+    },
+    "1701269468643437:2791904": {
+        "IFileManager": {
+            "path": "Files/File_1701269468643437_2791904.png"
+        }
+    },
+    "1701269483095701:2806130": {
+        "IFileManager": {
+            "path": "Files/File_1701269483095701_2806130.pvr"
+        }
+    },
+    "1702499341439758:40501": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Continuous Reduction Bar/Design 5/Life bar 5.png",
+                "hash": "4e1d739d73c597a2632ee6c57da2dbe9"
+            }
+        }
+    }
+}

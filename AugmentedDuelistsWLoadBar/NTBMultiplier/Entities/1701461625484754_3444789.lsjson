@@ -1,0 +1,38 @@
+{
+    "1701461625481722:3444788": {
+        "IFileManager": {
+            "path": "Files/File_1701461625481722_3444788.js"
+        }
+    },
+    "1701461625484754:3444789": {
+        "IResourceController": {
+            "name": "MonsterCard",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701461625485076:3444790",
+            "fileId": "1701461625481722:3444788",
+            "publicId": "1702488342216515:40273",
+            "expected_hash": "44be73bdab3d115b188f67fb28e8cf6b"
+        },
+        "IResourceManager": {
+            "uid": "1701461625485076:3444790",
+            "name": "Files/File_1701461625481722_3444788.js",
+            "flags": 1
+        }
+    },
+    "1701461625485076:3444790": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342216515:40273": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Monsters/MonsterCard.js",
+                "hash": "44be73bdab3d115b188f67fb28e8cf6b"
+            }
+        }
+    }
+}

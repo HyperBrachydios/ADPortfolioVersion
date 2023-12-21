@@ -1,0 +1,33 @@
+{
+    "1700610429404992:844": {
+        "IFileManager": {
+            "path": "Files/File_1700610429404992_844.afpub"
+        }
+    },
+    "1700610429406727:845": {
+        "IResourceController": {
+            "name": "PlayspaceTemplate_002",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700610429406739:846",
+            "fileId": "1700610429404992:844",
+            "publicId": "1702499340745690:40382",
+            "expected_hash": "4be35ebb2abd760332fa23f8f5607c12"
+        },
+        "IResourceManager": {
+            "uid": "1700610429406739:846",
+            "name": "Files/File_1700610429404992_844.afpub",
+            "flags": 1
+        }
+    },
+    "1702499340745690:40382": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/Affinity Files/PlayspaceTemplate_002.afpub",
+                "hash": "4be35ebb2abd760332fa23f8f5607c12"
+            }
+        }
+    }
+}

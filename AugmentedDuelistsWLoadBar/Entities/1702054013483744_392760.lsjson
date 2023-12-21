@@ -1,0 +1,39 @@
+{
+    "1702054013480063:392759": {
+        "IFileManager": {
+            "path": "Files/File_1702054013480063_392759"
+        }
+    },
+    "1702054013483744:392760": {
+        "IResourceController": {
+            "name": "Grey",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702054013483955:392761",
+            "fileId": "1702054013480063:392759",
+            "originalId": "1702054013535750:392765",
+            "publicId": "1702290573543745:39135",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1702054013483955:392761",
+            "name": "Files/File_1702054013480063_392759",
+            "flags": 1
+        }
+    },
+    "1702054013535750:392765": {
+        "IFileManager": {
+            "path": "Files/File_1702054013535750_392765.lsmat"
+        }
+    },
+    "1702290573543745:39135": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/BrambleMesh/Materials0001/Grey.lsmat",
+                "hash": "b1986a1fe8a664d8eee249ebb5af13bd"
+            }
+        }
+    }
+}

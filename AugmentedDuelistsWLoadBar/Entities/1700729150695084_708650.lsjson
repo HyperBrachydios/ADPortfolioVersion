@@ -1,0 +1,38 @@
+{
+    "1700729150693124:708649": {
+        "IFileManager": {
+            "path": "Files/File_1700729150693124_708649.js"
+        }
+    },
+    "1700729150695084:708650": {
+        "IResourceController": {
+            "name": "ImageTracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700729150695101:708651",
+            "fileId": "1700729150693124:708649",
+            "publicId": "1702290572945795:39091",
+            "expected_hash": "251a44b7f2285831f36eeaf20b772543"
+        },
+        "IResourceManager": {
+            "uid": "1700729150695101:708651",
+            "name": "Files/File_1700729150693124_708649.js",
+            "flags": 1
+        }
+    },
+    "1700729150695101:708651": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702290572945795:39091": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/UI/ImageTracking.js",
+                "hash": "251a44b7f2285831f36eeaf20b772543"
+            }
+        }
+    }
+}

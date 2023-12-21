@@ -1,0 +1,38 @@
+{
+    "1701269462220070:2790496": {
+        "IFileManager": {
+            "path": "Files/File_1701269462220070_2790496.js"
+        }
+    },
+    "1701269462225470:2790497": {
+        "IResourceController": {
+            "name": "ContinuousBarUpdaterScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269462225943:2790498",
+            "fileId": "1701269462220070:2790496",
+            "publicId": "1702499341222284:40460",
+            "expected_hash": "2a4c4fcf60ff0a2cf3a4e194e308debe"
+        },
+        "IResourceManager": {
+            "uid": "1701269462225943:2790498",
+            "name": "Files/File_1701269462220070_2790496.js",
+            "flags": 1
+        }
+    },
+    "1701269462225943:2790498": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702499341222284:40460": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Scripts/ContinuousBarUpdaterScript.js",
+                "hash": "2a4c4fcf60ff0a2cf3a4e194e308debe"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1702223601806798:686628": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499342071071:40583",
+            "resources": [
+                "1702223601755741:686614"
+            ]
+        }
+    },
+    "1702499342071071:40583": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Loading Indicator Resources/Textures"
+            }
+        }
+    }
+}

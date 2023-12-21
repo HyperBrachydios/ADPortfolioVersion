@@ -1,0 +1,38 @@
+{
+    "1700727944816180:232153": {
+        "IFileManager": {
+            "path": "Files/File_1700727944816180_232153.js"
+        }
+    },
+    "1700727944820097:232154": {
+        "IResourceController": {
+            "name": "Attack",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727944820123:232155",
+            "fileId": "1700727944816180:232153",
+            "publicId": "1702290574095852:39187",
+            "expected_hash": "1b982fd94c0a866007f95b387853bb34"
+        },
+        "IResourceManager": {
+            "uid": "1700727944820123:232155",
+            "name": "Files/File_1700727944816180_232153.js",
+            "flags": 1
+        }
+    },
+    "1700727944820123:232155": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702290574095852:39187": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Scripts/Attack/Attack.js",
+                "hash": "1b982fd94c0a866007f95b387853bb34"
+            }
+        }
+    }
+}

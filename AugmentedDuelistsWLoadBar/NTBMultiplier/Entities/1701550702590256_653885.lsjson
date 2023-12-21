@@ -1,0 +1,39 @@
+{
+    "1701550702586842:653878": {
+        "IFileManager": {
+            "path": "Files/File_1701550702586842_653878"
+        }
+    },
+    "1701550702590256:653885": {
+        "IResourceController": {
+            "name": "MonsterCard_Everard_P1",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701550702594557:653886",
+            "fileId": "1701550702586842:653878",
+            "originalId": "1701550702594855:653891",
+            "publicId": "1702488343112671:40469",
+            "expected_hash": "f2a29e845e31bddc16267441ddbe77f8"
+        },
+        "IResourceManager": {
+            "uid": "1701550702594557:653886",
+            "name": "Files/File_1701550702586842_653878",
+            "flags": 1
+        }
+    },
+    "1701550702594855:653891": {
+        "IFileManager": {
+            "path": "Files/File_1701550702594855_653891.png"
+        }
+    },
+    "1702488343112671:40469": {
+        "IResourceController": {
+            "public": {
+                "path": "MonsterCard Markers/MonsterCard_Everard_P1.png",
+                "hash": "e49284b91d5d4c358092e8063d999806"
+            }
+        }
+    }
+}

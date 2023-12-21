@@ -1,0 +1,61 @@
+{
+    "1702054007498004:391670": {
+        "IResourceController": {
+            "name": "BrambleMesh",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1702054018840368:393697",
+            "publicId": "1702499340500629:40350",
+            "expected_hash": "cc793da0c947913d7822da7e664d4c7b",
+            "resources": [
+                "1702054013211924:391758",
+                "1702054013462375:392554",
+                "1702054013478492:392758",
+                "1702054018632839:393342"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Brown",
+                        "v": "1702054015934025:392962"
+                    },
+                    {
+                        "k": "Grey",
+                        "v": "1702054013483955:392761"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1702054014174618:392828"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1702054014945901:392895"
+                    }
+                ]
+            }
+        }
+    },
+    "1702054018840368:393697": {
+        "IFileManager": {
+            "path": "Files/File_1702054018840368_393697.glb"
+        }
+    },
+    "1702499340500629:40350": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/NewModels/BrambleMesh.glb",
+                "hash": "cc793da0c947913d7822da7e664d4c7b"
+            }
+        }
+    }
+}

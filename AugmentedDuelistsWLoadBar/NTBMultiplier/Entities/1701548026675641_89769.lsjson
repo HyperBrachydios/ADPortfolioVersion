@@ -1,0 +1,79 @@
+{
+    "1701548026671286:89768": {
+        "IFileManager": {
+            "path": "Files/File_1701548026671286_89768.pvr"
+        }
+    },
+    "1701548026675641:89769": {
+        "IResourceController": {
+            "name": "MonsterCard_Everard",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701548026681372:89776",
+            "fileId": "1701548026671286:89768",
+            "originalId": "1701548026682044:89781",
+            "publicId": "1702488342668627:40370",
+            "expected_hash": "c518ae1a946fac355dc0ec6b4ddfe105",
+            "additional": {
+                "originHash": "e49284b91d5d4c358092e8063d999806"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701548026681372:89776",
+            "name": "Files/File_1701548026671286_89768.png",
+            "flags": 1
+        }
+    },
+    "1701548026681372:89776": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e49284b91d5d4c358092e8063d999806"
+                    },
+                    "v": "1701548081531826:115714"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "463088",
+                "compressedSize": "84816",
+                "extension": "png",
+                "originalRAM": "3689136",
+                "originalSize": "247927",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701548026700761:89782"
+        }
+    },
+    "1701548026682044:89781": {
+        "IFileManager": {
+            "path": "Files/File_1701548026682044_89781.png"
+        }
+    },
+    "1701548026700761:89782": {
+        "IFileManager": {
+            "path": "Files/File_1701548026700761_89782.png"
+        }
+    },
+    "1701548081531826:115714": {
+        "IFileManager": {
+            "path": "Files/File_1701548081531826_115714.pvr"
+        }
+    },
+    "1702488342668627:40370": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterCards/MonsterCard_Everard.png",
+                "hash": "e49284b91d5d4c358092e8063d999806"
+            }
+        }
+    }
+}

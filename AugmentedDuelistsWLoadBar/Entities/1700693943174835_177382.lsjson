@@ -1,0 +1,79 @@
+{
+    "1700693943168156:177373": {
+        "IFileManager": {
+            "path": "Files/File_1700693943168156_177373.pvr"
+        }
+    },
+    "1700693943174835:177382": {
+        "IResourceController": {
+            "name": "MonsterMarker_SpikeyWheel",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700693943185051:177383",
+            "fileId": "1700693943168156:177373",
+            "originalId": "1700693943191482:177468",
+            "publicId": "1702290573951437:39170",
+            "expected_hash": "6de38d47fa69dbdf67a113f38def7d98",
+            "additional": {
+                "originHash": "a19e9f0014af61ea7f61b6019ca14739"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700693943185051:177383",
+            "name": "Files/File_1700693943168156_177373.png",
+            "flags": 1
+        }
+    },
+    "1700693943185051:177383": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a19e9f0014af61ea7f61b6019ca14739"
+                    },
+                    "v": "1700693975697302:189736"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1036800",
+                "compressedSize": "271796",
+                "extension": "png",
+                "originalRAM": "8294400",
+                "originalSize": "1183391",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700693943240804:177491"
+        }
+    },
+    "1700693943191482:177468": {
+        "IFileManager": {
+            "path": "Files/File_1700693943191482_177468.png"
+        }
+    },
+    "1700693943240804:177491": {
+        "IFileManager": {
+            "path": "Files/File_1700693943240804_177491.png"
+        }
+    },
+    "1700693975697302:189736": {
+        "IFileManager": {
+            "path": "Files/File_1700693975697302_189736.pvr"
+        }
+    },
+    "1702290573951437:39170": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterMarker/MonsterMarker_SpikeyWheel.png",
+                "hash": "a19e9f0014af61ea7f61b6019ca14739"
+            }
+        }
+    }
+}

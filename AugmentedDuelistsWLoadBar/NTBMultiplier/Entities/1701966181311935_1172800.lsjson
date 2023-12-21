@@ -1,0 +1,24 @@
+{
+    "1701966181311935:1172800": {
+        "IResourceController": {
+            "name": "SheldonMesh4",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702488343587032:40520",
+            "resources": [
+                "1701966181315296:1172802",
+                "1701966181363473:1172812",
+                "1701966182344208:1172936"
+            ]
+        }
+    },
+    "1702488343587032:40520": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/SheldonMesh4"
+            }
+        }
+    }
+}

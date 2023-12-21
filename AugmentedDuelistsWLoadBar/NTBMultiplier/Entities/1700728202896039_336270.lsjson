@@ -1,0 +1,39 @@
+{
+    "1700728202893549:336266": {
+        "IFileManager": {
+            "path": "Files/File_1700728202893549_336266"
+        }
+    },
+    "1700728202896039:336270": {
+        "IResourceController": {
+            "name": "Tracking Marker",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700728202899331:336271",
+            "fileId": "1700728202893549:336266",
+            "originalId": "1700728202899576:336276",
+            "publicId": "1702488342735795:40381",
+            "expected_hash": "56ade7d226a94e652c24563b800a09f2"
+        },
+        "IResourceManager": {
+            "uid": "1700728202899331:336271",
+            "name": "Files/File_1700728202893549_336266",
+            "flags": 1
+        }
+    },
+    "1700728202899576:336276": {
+        "IFileManager": {
+            "path": "Files/File_1700728202899576_336276.png"
+        }
+    },
+    "1702488342735795:40381": {
+        "IResourceController": {
+            "public": {
+                "path": "Tracking Marker.png",
+                "hash": "a19e9f0014af61ea7f61b6019ca14739"
+            }
+        }
+    }
+}

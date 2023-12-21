@@ -1,0 +1,39 @@
+{
+    "1701875174225987:1869997": {
+        "IResourceController": {
+            "name": "Everard",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701875174224015:1869919",
+            "fileId": "1701875174280210:1870033",
+            "originalId": "1701877320703192:2176879",
+            "publicId": "1702488342617575:40357",
+            "expected_hash": "37f873940ebe9cd76542a703a4c468e1"
+        },
+        "IResourceManager": {
+            "uid": "1701875174224015:1869919",
+            "name": "Everard",
+            "flags": 0
+        }
+    },
+    "1701875174280210:1870033": {
+        "IFileManager": {
+            "path": "Files/File_1701875174280210_1870033.oprfb"
+        }
+    },
+    "1701877320703192:2176879": {
+        "IFileManager": {
+            "path": "Files/File_1701877320703192_2176879.oprfb"
+        }
+    },
+    "1702488342617575:40357": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Prefabs/Everard.oprfb",
+                "hash": "4b1b536fada59d8e620c9dfd4873b4fe"
+            }
+        }
+    }
+}

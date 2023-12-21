@@ -1,0 +1,38 @@
+{
+    "1700686971564925:1440007": {
+        "IFileManager": {
+            "path": "Files/File_1700686971564925_1440007.js"
+        }
+    },
+    "1700686971568476:1440008": {
+        "IResourceController": {
+            "name": "convertHealthToUI",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700686971568512:1440009",
+            "fileId": "1700686971564925:1440007",
+            "publicId": "1702488342158136:40261",
+            "expected_hash": "6fed8429db0e4887c3982f39ae227c0e"
+        },
+        "IResourceManager": {
+            "uid": "1700686971568512:1440009",
+            "name": "Files/File_1700686971564925_1440007.js",
+            "flags": 1
+        }
+    },
+    "1700686971568512:1440009": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342158136:40261": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/UI/convertHealthToUI.js",
+                "hash": "6fed8429db0e4887c3982f39ae227c0e"
+            }
+        }
+    }
+}

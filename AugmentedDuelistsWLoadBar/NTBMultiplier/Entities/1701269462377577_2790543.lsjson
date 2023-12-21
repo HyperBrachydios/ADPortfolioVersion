@@ -1,0 +1,38 @@
+{
+    "1701269462374038:2790542": {
+        "IFileManager": {
+            "path": "Files/File_1701269462374038_2790542.js"
+        }
+    },
+    "1701269462377577:2790543": {
+        "IResourceController": {
+            "name": "Documentation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701269462377627:2790544",
+            "fileId": "1701269462374038:2790542",
+            "publicId": "1702488342909957:40418",
+            "expected_hash": "af5f26884a839c44e60d965d292e1f8c"
+        },
+        "IResourceManager": {
+            "uid": "1701269462377627:2790544",
+            "name": "Files/File_1701269462374038_2790542.js",
+            "flags": 1
+        }
+    },
+    "1701269462377627:2790544": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342909957:40418": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Scripts/Documentation.js",
+                "hash": "af5f26884a839c44e60d965d292e1f8c"
+            }
+        }
+    }
+}

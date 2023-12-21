@@ -1,0 +1,39 @@
+{
+    "1700727980744372:245883": {
+        "IFileManager": {
+            "path": "Files/File_1700727980744372_245883"
+        }
+    },
+    "1700727980748348:245884": {
+        "IResourceController": {
+            "name": "image_marker",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727980749784:245885",
+            "fileId": "1700727980744372:245883",
+            "originalId": "1700727980750124:245890",
+            "publicId": "1702290574562431:39218",
+            "expected_hash": "8b22e41ab917b0cc0bbfcfa82852f34c"
+        },
+        "IResourceManager": {
+            "uid": "1700727980749784:245885",
+            "name": "Files/File_1700727980744372_245883",
+            "flags": 1
+        }
+    },
+    "1700727980750124:245890": {
+        "IFileManager": {
+            "path": "Files/File_1700727980750124_245890.jpg"
+        }
+    },
+    "1702290574562431:39218": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Markers [REPLACE_ME]/image_marker.jpg",
+                "hash": "7557946df1554d2f31ef1f3ffd57a8ce"
+            }
+        }
+    }
+}

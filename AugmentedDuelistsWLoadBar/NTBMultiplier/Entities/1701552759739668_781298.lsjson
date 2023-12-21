@@ -1,0 +1,33 @@
+{
+    "1701552759737450:781297": {
+        "IFileManager": {
+            "path": "Files/File_1701552759737450_781297.pdf"
+        }
+    },
+    "1701552759739668:781298": {
+        "IResourceController": {
+            "name": "Snapcode",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552759739689:781299",
+            "fileId": "1701552759737450:781297",
+            "publicId": "1702488343530827:40513",
+            "expected_hash": "6147f0d12a8f970ec5290b8a98aac82d"
+        },
+        "IResourceManager": {
+            "uid": "1701552759739689:781299",
+            "name": "Files/File_1701552759737450_781297.pdf",
+            "flags": 1
+        }
+    },
+    "1702488343530827:40513": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/Snapcode.pdf",
+                "hash": "6147f0d12a8f970ec5290b8a98aac82d"
+            }
+        }
+    }
+}

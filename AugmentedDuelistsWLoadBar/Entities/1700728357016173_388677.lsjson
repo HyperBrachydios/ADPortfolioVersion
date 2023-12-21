@@ -1,0 +1,25 @@
+{
+    "1700728357016173:388677": {
+        "IResourceController": {
+            "name": "Materials00000000000001",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290574511909:39211",
+            "resources": [
+                "1700728357018067:388679",
+                "1700728357540489:388844",
+                "1700728357968538:388984",
+                "1700728358414956:389108"
+            ]
+        }
+    },
+    "1702290574511909:39211": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Spike_wheel_Animated/Materials00000000000001"
+            }
+        }
+    }
+}

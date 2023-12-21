@@ -1,0 +1,17 @@
+{
+    "1700727981569417:248045": {
+        "IResourceController": {
+            "name": "left_eyeblink_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981569416:248044"
+        },
+        "IResourceManager": {
+            "uid": "1700727981569416:248044",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

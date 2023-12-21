@@ -1,0 +1,31 @@
+{
+    "1700730103987454:1069676": {
+        "IFileManager": {
+            "path": "Files/File_1700730103987454_1069676.js"
+        }
+    },
+    "1700730103989411:1069677": {
+        "IResourceController": {
+            "name": "Scene Manager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1700730103989424:1069678",
+            "fileId": "1700730103987454:1069676",
+            "expected_hash": "031fad7cda50fdd73d39659602fed468"
+        },
+        "IResourceManager": {
+            "uid": "1700730103989424:1069678",
+            "name": "Files/File_1700730103987454_1069676.js",
+            "flags": 1
+        }
+    },
+    "1700730103989424:1069678": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "SceneManagerModule"
+            ]
+        }
+    }
+}

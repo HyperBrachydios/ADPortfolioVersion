@@ -1,0 +1,79 @@
+{
+    "1700686969922391:1439987": {
+        "IFileManager": {
+            "path": "Files/File_1700686969922391_1439987.pvr"
+        }
+    },
+    "1700686969927580:1439988": {
+        "IResourceController": {
+            "name": "emptyHealthbar",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700686970058034:1439989",
+            "fileId": "1700686969922391:1439987",
+            "originalId": "1700686970060356:1439994",
+            "publicId": "1702290574006408:39175",
+            "expected_hash": "5d8bbb2e6587a1989d1d457844cc8dc3",
+            "additional": {
+                "originHash": "32222989d19e2eeed2994468645148a0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700686970058034:1439989",
+            "name": "Files/File_1700686969922391_1439987.png",
+            "flags": 1
+        }
+    },
+    "1700686970058034:1439989": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "32222989d19e2eeed2994468645148a0"
+                    },
+                    "v": "1700686971891383:1440489"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "480000",
+                "compressedSize": "2269",
+                "extension": "png",
+                "originalRAM": "3840000",
+                "originalSize": "342",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700686970065813:1439995"
+        }
+    },
+    "1700686970060356:1439994": {
+        "IFileManager": {
+            "path": "Files/File_1700686970060356_1439994.png"
+        }
+    },
+    "1700686970065813:1439995": {
+        "IFileManager": {
+            "path": "Files/File_1700686970065813_1439995.png"
+        }
+    },
+    "1700686971891383:1440489": {
+        "IFileManager": {
+            "path": "Files/File_1700686971891383_1440489.pvr"
+        }
+    },
+    "1702290574006408:39175": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/UI/emptyHealthbar.png",
+                "hash": "32222989d19e2eeed2994468645148a0"
+            }
+        }
+    }
+}

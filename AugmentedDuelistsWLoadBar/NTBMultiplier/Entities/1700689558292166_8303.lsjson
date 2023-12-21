@@ -1,0 +1,39 @@
+{
+    "1700689558290650:8302": {
+        "IFileManager": {
+            "path": "Files/File_1700689558290650_8302"
+        }
+    },
+    "1700689558292166:8303": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700689558292171:8304",
+            "fileId": "1700689558290650:8302",
+            "originalId": "1700689558313265:8308",
+            "publicId": "1702488342309372:40295",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1700689558292171:8304",
+            "name": "Files/File_1700689558290650_8302",
+            "flags": 1
+        }
+    },
+    "1700689558313265:8308": {
+        "IFileManager": {
+            "path": "Files/File_1700689558313265_8308.lsmat"
+        }
+    },
+    "1702488342309372:40295": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials000000000000010000/Material.lsmat",
+                "hash": "c0c14c5286fc5b9f906e4e6022cd3f5c"
+            }
+        }
+    }
+}

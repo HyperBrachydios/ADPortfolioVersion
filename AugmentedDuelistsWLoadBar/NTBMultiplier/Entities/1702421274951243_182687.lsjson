@@ -1,0 +1,38 @@
+{
+    "1702421274948308:182686": {
+        "IFileManager": {
+            "path": "Files/File_1702421274948308_182686.js"
+        }
+    },
+    "1702421274951243:182687": {
+        "IResourceController": {
+            "name": "FetchMultiplier",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702421274951276:182688",
+            "fileId": "1702421274948308:182686",
+            "publicId": "1702488342180644:40264",
+            "expected_hash": "f157923b0727ce0e304dd2b82ecde074"
+        },
+        "IResourceManager": {
+            "uid": "1702421274951276:182688",
+            "name": "Files/File_1702421274948308_182686.js",
+            "flags": 1
+        }
+    },
+    "1702421274951276:182688": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1702488342180644:40264": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/UI/FetchMultiplier.js",
+                "hash": "f157923b0727ce0e304dd2b82ecde074"
+            }
+        }
+    }
+}

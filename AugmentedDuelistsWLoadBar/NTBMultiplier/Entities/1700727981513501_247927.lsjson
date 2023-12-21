@@ -1,0 +1,79 @@
+{
+    "1700727981511516:247926": {
+        "IFileManager": {
+            "path": "Files/File_1700727981511516_247926.pvr"
+        }
+    },
+    "1700727981513501:247927": {
+        "IResourceController": {
+            "name": "monster_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981518392:247928",
+            "fileId": "1700727981511516:247926",
+            "originalId": "1700727981518794:247933",
+            "publicId": "1702488342815290:40397",
+            "expected_hash": "6eebe2117ed0950c1131be60f8ed14f6",
+            "additional": {
+                "originHash": "24323a9fe74aea9bbcfeb1f0286156b6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700727981518392:247928",
+            "name": "Files/File_1700727981511516_247926.jpg",
+            "flags": 1
+        }
+    },
+    "1700727981518392:247928": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "24323a9fe74aea9bbcfeb1f0286156b6"
+                    },
+                    "v": "1700727985077066:252843"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "84885",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "33466",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700727981534449:247948"
+        }
+    },
+    "1700727981518794:247933": {
+        "IFileManager": {
+            "path": "Files/File_1700727981518794_247933.jpg"
+        }
+    },
+    "1700727981534449:247948": {
+        "IFileManager": {
+            "path": "Files/File_1700727981534449_247948.jpg"
+        }
+    },
+    "1700727985077066:252843": {
+        "IFileManager": {
+            "path": "Files/File_1700727985077066_252843.pvr"
+        }
+    },
+    "1702488342815290:40397": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Mark the Monster Resources/Textures/monster_d.jpg",
+                "hash": "24323a9fe74aea9bbcfeb1f0286156b6"
+            }
+        }
+    }
+}

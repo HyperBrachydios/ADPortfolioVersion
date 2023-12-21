@@ -1,0 +1,23 @@
+{
+    "1700727944825300:232161": {
+        "IResourceController": {
+            "name": "Game",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702499340861442:40405",
+            "resources": [
+                "1700727944832899:232164",
+                "1700727944842555:232177"
+            ]
+        }
+    },
+    "1702499340861442:40405": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Scripts/Game"
+            }
+        }
+    }
+}

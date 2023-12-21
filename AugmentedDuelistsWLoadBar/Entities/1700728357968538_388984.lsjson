@@ -1,0 +1,39 @@
+{
+    "1700728357967046:388983": {
+        "IFileManager": {
+            "path": "Files/File_1700728357967046_388983"
+        }
+    },
+    "1700728357968538:388984": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700728357968544:388985",
+            "fileId": "1700728357967046:388983",
+            "originalId": "1700728358008821:388997",
+            "publicId": "1702290574539130:39214",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1700728357968544:388985",
+            "name": "Files/File_1700728357967046_388983",
+            "flags": 1
+        }
+    },
+    "1700728358008821:388997": {
+        "IFileManager": {
+            "path": "Files/File_1700728358008821_388997.lsmat"
+        }
+    },
+    "1702290574539130:39214": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Spike_wheel_Animated/Materials00000000000001/Material.lsmat",
+                "hash": "7af592b791ad0e6f44b9fab78dee634d"
+            }
+        }
+    }
+}

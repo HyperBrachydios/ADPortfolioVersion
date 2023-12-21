@@ -1,0 +1,39 @@
+{
+    "1702054349457129:443386": {
+        "IFileManager": {
+            "path": "Files/File_1702054349457129_443386"
+        }
+    },
+    "1702054349461329:443387": {
+        "IResourceController": {
+            "name": "Arms",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1702054349461344:443388",
+            "fileId": "1702054349457129:443386",
+            "originalId": "1702054349519382:443392",
+            "publicId": "1702290573679157:39148",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1702054349461344:443388",
+            "name": "Files/File_1702054349457129_443386",
+            "flags": 1
+        }
+    },
+    "1702054349519382:443392": {
+        "IFileManager": {
+            "path": "Files/File_1702054349519382_443392.lsmat"
+        }
+    },
+    "1702290573679157:39148": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/EverardMesh/Materials0001/Arms.lsmat",
+                "hash": "f96f0303ba8beee7b8da92d97b392912"
+            }
+        }
+    }
+}

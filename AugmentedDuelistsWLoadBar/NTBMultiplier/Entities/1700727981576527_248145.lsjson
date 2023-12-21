@@ -1,0 +1,17 @@
+{
+    "1700727981576527:248145": {
+        "IResourceController": {
+            "name": "RIGHT_CLAVICLE_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981576526:248144"
+        },
+        "IResourceManager": {
+            "uid": "1700727981576526:248144",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

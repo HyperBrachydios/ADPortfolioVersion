@@ -1,0 +1,79 @@
+{
+    "1700686971243056:1439997": {
+        "IFileManager": {
+            "path": "Files/File_1700686971243056_1439997.pvr"
+        }
+    },
+    "1700686971245147:1439998": {
+        "IResourceController": {
+            "name": "PlayerCircle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700686971488714:1439999",
+            "fileId": "1700686971243056:1439997",
+            "originalId": "1700686971490318:1440004",
+            "publicId": "1702499340797504:40393",
+            "expected_hash": "41d4752847d0653fa65a371678480c4b",
+            "additional": {
+                "originHash": "cc169c6ffbcf92368452c02a2cb88ef0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700686971488714:1439999",
+            "name": "Files/File_1700686971243056_1439997.png",
+            "flags": 1
+        }
+    },
+    "1700686971488714:1439999": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cc169c6ffbcf92368452c02a2cb88ef0"
+                    },
+                    "v": "1700686972492304:1440731"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "51200",
+                "compressedSize": "24428",
+                "extension": "png",
+                "originalRAM": "405760",
+                "originalSize": "60816",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700686971495864:1440005"
+        }
+    },
+    "1700686971490318:1440004": {
+        "IFileManager": {
+            "path": "Files/File_1700686971490318_1440004.png"
+        }
+    },
+    "1700686971495864:1440005": {
+        "IFileManager": {
+            "path": "Files/File_1700686971495864_1440005.png"
+        }
+    },
+    "1700686972492304:1440731": {
+        "IFileManager": {
+            "path": "Files/File_1700686972492304_1440731.pvr"
+        }
+    },
+    "1702499340797504:40393": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/UI/PlayerCircle.png",
+                "hash": "cc169c6ffbcf92368452c02a2cb88ef0"
+            }
+        }
+    }
+}

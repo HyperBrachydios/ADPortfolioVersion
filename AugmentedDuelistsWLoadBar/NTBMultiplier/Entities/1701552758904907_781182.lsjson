@@ -1,0 +1,33 @@
+{
+    "1701552758895255:781181": {
+        "IFileManager": {
+            "path": "Files/File_1701552758895255_781181.psd"
+        }
+    },
+    "1701552758904907:781182": {
+        "IResourceController": {
+            "name": "Greyscale_GeometricBackground",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701552758904930:781183",
+            "fileId": "1701552758895255:781181",
+            "publicId": "1702488343314243:40496",
+            "expected_hash": "84feea0e36c51fea9ca9e4e6774a7bae"
+        },
+        "IResourceManager": {
+            "uid": "1701552758904930:781183",
+            "name": "Files/File_1701552758895255_781181.psd",
+            "flags": 1
+        }
+    },
+    "1702488343314243:40496": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/PNG/Greyscale_GeometricBackground.psd",
+                "hash": "84feea0e36c51fea9ca9e4e6774a7bae"
+            }
+        }
+    }
+}

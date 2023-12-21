@@ -1,0 +1,39 @@
+{
+    "1700727980628597:245821": {
+        "IResourceController": {
+            "name": "Extended_Marker_Tracking__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727980628539:245818",
+            "fileId": "1700727980671755:245839",
+            "originalId": "1700728625367294:495860",
+            "publicId": "1702488342812420:40394",
+            "expected_hash": "45e3b521231cc9a20a6ddba2a3f32eb5"
+        },
+        "IResourceManager": {
+            "uid": "1700727980628539:245818",
+            "name": "sceneObject_5",
+            "flags": 0
+        }
+    },
+    "1700727980671755:245839": {
+        "IFileManager": {
+            "path": "Files/File_1700727980671755_245839.oprfb"
+        }
+    },
+    "1700728625367294:495860": {
+        "IFileManager": {
+            "path": "Files/File_1700728625367294_495860.oprfb"
+        }
+    },
+    "1702488342812420:40394": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Extended_Marker_Tracking__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "54dbbcbd00362deeb43584ae743b965e"
+            }
+        }
+    }
+}

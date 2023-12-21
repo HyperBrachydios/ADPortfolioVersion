@@ -1,0 +1,39 @@
+{
+    "1700727981321348:246881": {
+        "IResourceController": {
+            "name": "MarkTheMonster__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700727981321303:246878",
+            "fileId": "1700727981368827:246907",
+            "originalId": "1700728625426421:496469",
+            "publicId": "1702499341152569:40451",
+            "expected_hash": "324d2b562f0aa34ae6cb756e73490221"
+        },
+        "IResourceManager": {
+            "uid": "1700727981321303:246878",
+            "name": "sceneObject_6",
+            "flags": 0
+        }
+    },
+    "1700727981368827:246907": {
+        "IFileManager": {
+            "path": "Files/File_1700727981368827_246907.oprfb"
+        }
+    },
+    "1700728625426421:496469": {
+        "IFileManager": {
+            "path": "Files/File_1700728625426421_496469.oprfb"
+        }
+    },
+    "1702499341152569:40451": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/MarkTheMonster__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "7bcdfc30cd65181f09ec7a230c01ce01"
+            }
+        }
+    }
+}

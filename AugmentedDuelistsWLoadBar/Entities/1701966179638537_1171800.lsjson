@@ -1,0 +1,39 @@
+{
+    "1701966179638537:1171800": {
+        "IResourceController": {
+            "name": "SheldonMeshScripted",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701966179636086:1171797",
+            "fileId": "1701966179771266:1172340",
+            "originalId": "1701973242207134:1324621",
+            "publicId": "1702290573468570:39125",
+            "expected_hash": "c93818728df6a43bcea3058850f25417"
+        },
+        "IResourceManager": {
+            "uid": "1701966179636086:1171797",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1701966179771266:1172340": {
+        "IFileManager": {
+            "path": "Files/File_1701966179771266_1172340.oprfb"
+        }
+    },
+    "1701973242207134:1324621": {
+        "IFileManager": {
+            "path": "Files/File_1701973242207134_1324621.oprfb"
+        }
+    },
+    "1702290573468570:39125": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SheldonMeshScripted.oprfb",
+                "hash": "9cee58e0f26d01b7426754915b72cd6a"
+            }
+        }
+    }
+}

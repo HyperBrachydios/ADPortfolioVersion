@@ -1,0 +1,39 @@
+{
+    "1701875172457755:1866687": {
+        "IResourceController": {
+            "name": "Sheldon",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701875172456818:1866609",
+            "fileId": "1701875172506418:1866723",
+            "originalId": "1701877320607355:2176829",
+            "publicId": "1702290574066128:39183",
+            "expected_hash": "b989ca30e23e5c416a3466b285debc8e"
+        },
+        "IResourceManager": {
+            "uid": "1701875172456818:1866609",
+            "name": "Sheldon",
+            "flags": 0
+        }
+    },
+    "1701875172506418:1866723": {
+        "IFileManager": {
+            "path": "Files/File_1701875172506418_1866723.oprfb"
+        }
+    },
+    "1701877320607355:2176829": {
+        "IFileManager": {
+            "path": "Files/File_1701877320607355_2176829.oprfb"
+        }
+    },
+    "1702290574066128:39183": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Prefabs/Sheldon.oprfb",
+                "hash": "cffd824bcacff5e23ba62008cd2210f1"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1702054326285111:424247": {
+        "IResourceController": {
+            "name": "Materials0001",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1702290573591140:39140",
+            "resources": [
+                "1702054326289953:424249",
+                "1702054327276787:424316",
+                "1702054327870769:424383",
+                "1702054328565428:424450"
+            ]
+        }
+    },
+    "1702290573591140:39140": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/NewModels/SheldonMesh4/Materials0001"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1701875170734428:1863392": {
+        "IResourceController": {
+            "name": "Bramble",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701875170732868:1863314",
+            "fileId": "1701875170816729:1863428",
+            "originalId": "1701877320514648:2176777",
+            "publicId": "1702290574053739:39182",
+            "expected_hash": "aa18415c52f7497a46fbcbdaa91e2eef"
+        },
+        "IResourceManager": {
+            "uid": "1701875170732868:1863314",
+            "name": "Bramble",
+            "flags": 0
+        }
+    },
+    "1701875170816729:1863428": {
+        "IFileManager": {
+            "path": "Files/File_1701875170816729_1863428.oprfb"
+        }
+    },
+    "1701877320514648:2176777": {
+        "IFileManager": {
+            "path": "Files/File_1701877320514648_2176777.oprfb"
+        }
+    },
+    "1702290574053739:39182": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Prefabs/Bramble.oprfb",
+                "hash": "bc5fa36332cf0c64f6b3d0a12f7937fd"
+            }
+        }
+    }
+}
